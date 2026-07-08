@@ -1,0 +1,1501 @@
+Age,Income,LoanAmount,LoanTerm,CreditScore,EmploymentYears,ExistingLoans,Dependents,Education,SelfEmployed,PropertyArea,MaritalStatus,DebtToIncomeRatio,Loan_Approved
+59,110342.0,223340.0,120,681.0,0.6,2,2.0,Graduate,No,Semiurban,Married,0.202,1
+49,18559.0,94581.0,180,671.0,2.9,1,1.0,Not Graduate,No,Urban,Married,0.34,1
+35,45784.0,176423.0,24,584.0,1.5,1,1.0,Graduate,No,Semiurban,Married,1.927,0
+28,44401.0,20000.0,360,677.0,12.0,1,1.0,Graduate,No,Urban,Single,0.015,1
+41,90783.0,228205.0,12,751.0,0.5,2,3.0,Graduate,Yes,Semiurban,Married,2.514,0
+59,15000.0,89772.0,12,779.0,0.3,1,1.0,Not Graduate,No,Urban,Single,3.0,0
+39,66304.0,39917.0,36,694.0,0.0,3,0.0,Graduate,No,Urban,Single,0.201,0
+43,49350.0,122832.0,36,692.0,2.0,1,0.0,Graduate,Yes,Semiurban,Single,0.83,0
+31,91038.0,102288.0,12,628.0,5.4,2,0.0,Graduate,,Rural,Married,1.124,0
+31,88023.0,235941.0,180,743.0,6.6,0,,Not Graduate,No,Semiurban,Single,0.179,1
+44,63041.0,116368.0,60,554.0,3.0,0,0.0,Graduate,No,Semiurban,Married,0.369,1
+56,20246.0,259009.0,24,732.0,5.8,2,3.0,Graduate,No,Semiurban,Married,3.0,0
+44,42374.0,176411.0,84,624.0,2.2,3,0.0,Graduate,Yes,Semiurban,Married,0.595,0
+23,44783.0,221549.0,120,784.0,5.5,1,3.0,Graduate,Yes,Urban,Single,0.495,0
+42,25818.0,149827.0,360,703.0,0.2,1,2.0,Graduate,No,Urban,Married,0.193,1
+22,80401.0,251765.0,60,644.0,2.5,2,1.0,Graduate,No,Rural,Single,0.626,1
+44,23025.0,57710.0,24,629.0,7.8,0,2.0,Graduate,No,Semiurban,Married,1.253,0
+50,98237.0,159090.0,84,697.0,8.1,2,0.0,Graduate,No,Semiurban,Married,0.231,0
+58,98182.0,118285.0,36,693.0,6.3,0,1.0,Not Graduate,No,Semiurban,Single,0.402,1
+22,46529.0,261730.0,24,614.0,1.1,0,0.0,Graduate,Yes,Urban,Married,2.813,0
+41,62227.0,269923.0,12,658.0,1.4,1,1.0,Graduate,,Semiurban,Single,3.0,0
+53,53410.0,150034.0,24,731.0,27.7,1,,Graduate,No,Semiurban,Single,1.405,0
+32,74840.0,46679.0,120,527.0,0.5,1,0.0,Graduate,No,Urban,Married,0.062,0
+42,83043.0,184168.0,240,715.0,1.0,0,3.0,Graduate,Yes,Semiurban,Married,0.111,1
+45,60676.0,20000.0,36,697.0,0.7,2,1.0,Graduate,No,Semiurban,Married,0.11,0
+47,65321.0,280091.0,360,757.0,2.0,0,1.0,Not Graduate,Yes,Rural,Married,0.143,0
+48,41347.0,112146.0,360,586.0,1.2,0,4.0,Graduate,No,Urban,Married,0.09,0
+36,64608.0,147554.0,24,651.0,3.4,2,2.0,Graduate,No,Semiurban,Married,1.142,0
+35,58581.0,95524.0,240,668.0,3.2,2,2.0,Graduate,Yes,Urban,Single,0.082,1
+23,34941.0,77857.0,84,716.0,11.6,1,2.0,Graduate,No,Urban,Married,0.318,1
+57,54691.0,208983.0,60,689.0,0.2,0,3.0,Graduate,No,Rural,Single,0.764,1
+27,46570.0,137311.0,84,538.0,1.9,0,0.0,Graduate,No,Semiurban,Married,0.421,0
+41,41591.0,153399.0,60,676.0,4.5,3,2.0,Graduate,No,Urban,Married,0.738,0
+29,29777.0,69689.0,240,830.0,4.6,1,1.0,Graduate,No,Semiurban,Married,0.117,1
+59,56375.0,218485.0,60,705.0,3.3,0,0.0,Graduate,No,Urban,Single,0.775,0
+38,37830.0,226623.0,120,797.0,8.5,1,0.0,Graduate,Yes,Semiurban,Married,0.599,0
+24,44636.0,133286.0,24,744.0,0.3,0,0.0,Graduate,No,Urban,Single,1.493,0
+45,78653.0,251434.0,84,773.0,8.5,1,1.0,Graduate,Yes,Rural,Married,0.457,1
+34,68907.0,141670.0,120,678.0,3.4,0,3.0,Graduate,No,Semiurban,Married,0.206,1
+29,33467.0,212380.0,84,697.0,0.7,0,2.0,Graduate,No,Urban,Married,0.907,0
+46,62742.0,20166.0,24,673.0,10.8,2,1.0,Graduate,Yes,Rural,Married,0.161,0
+22,57921.0,178274.0,180,650.0,5.2,1,0.0,Graduate,Yes,Rural,Married,0.205,0
+40,92437.0,128281.0,60,717.0,0.9,3,0.0,Graduate,No,Urban,Single,0.278,1
+48,85429.0,162442.0,240,603.0,0.2,4,1.0,Graduate,No,Rural,Single,0.095,0
+27,21258.0,158855.0,180,820.0,0.8,1,2.0,Graduate,No,Rural,Single,0.498,0
+28,73945.0,160056.0,180,566.0,4.7,0,0.0,Graduate,No,Rural,Single,0.144,0
+55,82834.0,199256.0,360,723.0,1.0,3,1.0,Graduate,No,Rural,Single,0.08,0
+34,67306.0,104786.0,12,774.0,1.3,0,3.0,Not Graduate,No,Semiurban,Single,1.557,0
+37,47621.0,195526.0,120,634.0,0.1,1,2.0,Not Graduate,No,Semiurban,Married,0.411,0
+56,108095.0,248602.0,120,550.0,6.4,0,2.0,Graduate,No,Rural,Married,0.23,1
+24,69331.0,37189.0,120,754.0,8.3,2,2.0,Not Graduate,Yes,Semiurban,Married,0.054,0
+22,98484.0,87557.0,120,668.0,8.0,4,0.0,Graduate,No,Semiurban,Married,0.089,1
+26,84733.0,90917.0,180,723.0,0.7,1,0.0,Graduate,No,Urban,Single,0.072,1
+24,65211.0,62636.0,120,640.0,11.7,0,3.0,Not Graduate,Yes,Rural,Married,0.096,0
+49,42247.0,112024.0,12,806.0,5.6,3,2.0,Not Graduate,Yes,Semiurban,Married,2.652,0
+38,54470.0,232649.0,36,459.0,11.4,3,1.0,Not Graduate,No,Semiurban,Married,1.424,0
+46,50118.0,265807.0,24,684.0,3.0,0,0.0,Graduate,No,Semiurban,Married,2.652,0
+54,28281.0,158494.0,120,771.0,2.9,1,2.0,Graduate,Yes,Urban,Married,0.56,0
+30,69306.0,124061.0,240,659.0,7.7,3,0.0,Graduate,Yes,Urban,Married,0.09,0
+56,89482.0,214234.0,36,677.0,0.5,1,0.0,Graduate,Yes,Semiurban,Married,0.798,0
+34,48437.0,20000.0,240,611.0,3.7,0,0.0,Graduate,No,Semiurban,Married,0.021,1
+51,102600.0,65586.0,240,652.0,9.1,0,1.0,Not Graduate,No,Rural,Married,0.032,1
+35,20733.0,20000.0,84,500.0,8.9,1,0.0,Graduate,No,Semiurban,Married,0.138,1
+28,78196.0,64744.0,240,585.0,15.6,2,0.0,Graduate,Yes,Rural,Married,0.041,1
+34,91773.0,88639.0,120,579.0,6.0,0,2.0,Graduate,No,Urban,Married,0.097,0
+43,50511.0,268215.0,84,710.0,1.2,1,1.0,Graduate,Yes,Rural,Married,0.759,0
+41,50907.0,20000.0,360,599.0,0.1,2,1.0,Graduate,No,Urban,Single,0.013,0
+36,77941.0,116664.0,180,601.0,3.3,3,1.0,Not Graduate,No,Semiurban,Married,0.1,1
+38,66132.0,199565.0,240,616.0,3.6,1,4.0,Graduate,No,Semiurban,Single,0.151,0
+44,15000.0,182858.0,12,583.0,1.4,0,0.0,Graduate,No,Urban,Single,3.0,0
+46,36446.0,266939.0,24,674.0,0.7,0,0.0,Not Graduate,No,Urban,Single,3.0,0
+45,54702.0,162884.0,240,684.0,4.4,1,2.0,Not Graduate,No,Urban,Married,0.149,1
+49,24867.0,179942.0,360,724.0,7.2,0,0.0,Not Graduate,No,Semiurban,Married,0.241,0
+35,44568.0,20000.0,60,709.0,24.9,5,1.0,Not Graduate,No,Urban,Married,0.09,1
+21,25417.0,70938.0,360,700.0,7.1,0,1.0,Graduate,No,Rural,Married,0.093,1
+45,46856.0,20000.0,60,620.0,7.9,2,4.0,Not Graduate,No,Urban,Single,0.085,0
+27,47594.0,195809.0,360,615.0,4.8,1,3.0,Graduate,No,Rural,Married,0.137,0
+29,62739.0,177895.0,180,572.0,21.3,1,4.0,Not Graduate,No,Urban,Single,0.189,0
+44,52981.0,175083.0,24,570.0,5.1,3,0.0,Graduate,No,Urban,Single,1.652,0
+21,66061.0,79485.0,360,667.0,9.8,1,3.0,Graduate,No,Urban,Married,0.04,0
+28,63438.0,72164.0,60,585.0,14.6,0,0.0,Graduate,Yes,Rural,Single,0.228,1
+44,77689.0,166756.0,240,782.0,13.3,2,2.0,Graduate,No,Semiurban,Married,0.107,1
+31,74223.0,96449.0,180,647.0,2.4,0,2.0,Graduate,No,Urban,Married,0.087,1
+37,71899.0,68368.0,180,785.0,0.4,2,0.0,Graduate,No,Urban,Married,0.063,1
+28,123307.0,109329.0,240,701.0,0.9,0,2.0,Not Graduate,No,Urban,Single,0.044,1
+55,62643.0,97141.0,12,580.0,0.3,1,0.0,Graduate,Yes,Semiurban,Married,1.551,0
+55,112059.0,80662.0,84,644.0,0.6,1,0.0,Graduate,No,Urban,Single,0.103,1
+53,64069.0,51939.0,24,499.0,1.0,0,3.0,Not Graduate,No,Rural,Married,0.405,1
+25,53177.0,185895.0,24,667.0,2.1,2,0.0,Graduate,No,Semiurban,Married,1.748,0
+59,46790.0,274484.0,12,588.0,3.9,1,0.0,Graduate,No,Rural,Married,3.0,0
+48,88214.0,146880.0,84,550.0,6.2,4,1.0,Graduate,No,Semiurban,Married,0.238,0
+27,91091.0,167795.0,24,787.0,1.2,2,3.0,Graduate,No,Urban,Married,0.921,0
+29,68195.0,192910.0,60,743.0,,2,0.0,Not Graduate,No,Rural,Married,0.566,0
+28,79938.0,179325.0,36,740.0,6.1,0,1.0,Not Graduate,No,Urban,Single,0.748,0
+32,26901.0,82247.0,36,720.0,4.1,1,3.0,Graduate,No,Semiurban,Married,1.019,0
+54,20927.0,287588.0,24,539.0,11.7,0,0.0,Graduate,No,Rural,Single,3.0,0
+53,82419.0,89415.0,120,614.0,0.6,1,0.0,Graduate,No,Urban,Married,0.108,1
+43,52210.0,201847.0,24,619.0,1.0,2,2.0,Graduate,No,Semiurban,Married,1.933,0
+44,71485.0,192415.0,240,496.0,2.8,2,1.0,Graduate,Yes,Urban,Married,0.135,1
+57,39220.0,20000.0,240,600.0,0.7,2,3.0,Graduate,No,Urban,Married,0.025,0
+55,91454.0,121292.0,84,601.0,,5,0.0,Graduate,No,Urban,Single,0.189,1
+42,21111.0,154530.0,180,661.0,2.5,1,3.0,Graduate,No,Urban,Single,0.488,1
+47,24517.0,160652.0,60,878.0,1.7,1,4.0,Graduate,Yes,Semiurban,Single,1.311,1
+55,86775.0,174114.0,12,648.0,0.9,1,0.0,Graduate,No,Rural,Single,2.006,0
+21,15000.0,210613.0,24,661.0,2.0,0,0.0,Not Graduate,No,Semiurban,Single,3.0,0
+55,63329.0,149399.0,60,627.0,4.7,1,4.0,Graduate,No,Semiurban,Married,0.472,0
+57,52639.0,178369.0,12,716.0,4.3,4,1.0,Not Graduate,No,Semiurban,Single,3.0,0
+34,38809.0,146404.0,240,553.0,0.9,1,1.0,Not Graduate,No,Rural,Married,0.189,0
+23,50601.0,68613.0,360,821.0,0.7,1,2.0,Graduate,No,Rural,Married,0.045,0
+21,36354.0,152592.0,60,639.0,0.1,2,2.0,Graduate,No,Rural,Single,0.839,0
+25,88930.0,209927.0,36,614.0,0.1,2,3.0,Graduate,No,Rural,Married,0.787,0
+46,94699.0,238703.0,24,737.0,10.6,1,0.0,Graduate,No,Urban,Single,1.26,0
+34,39914.0,192985.0,84,570.0,0.2,0,0.0,Graduate,No,Semiurban,Married,0.691,0
+59,61062.0,256748.0,36,715.0,6.6,0,3.0,Not Graduate,No,Semiurban,Single,1.402,0
+47,25848.0,183509.0,180,776.0,10.3,2,3.0,Not Graduate,Yes,Semiurban,Married,0.473,0
+29,78607.0,219110.0,120,628.0,0.5,2,2.0,Graduate,No,Semiurban,Married,0.279,0
+35,78034.0,224991.0,12,835.0,2.9,1,4.0,Not Graduate,No,Urban,Married,2.883,0
+35,48504.0,132132.0,240,708.0,16.4,0,2.0,Graduate,No,Urban,Single,0.136,1
+46,55371.0,208080.0,24,709.0,9.0,2,0.0,Not Graduate,No,Rural,Married,1.879,0
+33,52937.0,74748.0,84,773.0,,3,3.0,Graduate,No,Semiurban,Married,0.202,0
+52,19394.0,177985.0,360,797.0,7.2,2,1.0,Graduate,No,Urban,Married,0.306,0
+59,89012.0,196162.0,240,674.0,9.0,2,0.0,Graduate,No,Urban,Married,0.11,1
+52,38127.0,234088.0,24,722.0,2.1,1,0.0,Not Graduate,No,Semiurban,Single,3.0,0
+24,38277.0,215661.0,360,776.0,11.1,1,2.0,Graduate,No,Semiurban,Married,0.188,1
+50,51691.0,235129.0,84,545.0,3.2,1,4.0,Graduate,No,Semiurban,Married,0.65,0
+57,76902.0,142050.0,120,494.0,3.8,4,0.0,Not Graduate,No,Urban,Married,0.185,0
+43,41991.0,122369.0,36,645.0,35.0,0,0.0,Not Graduate,Yes,Urban,Married,0.971,0
+59,15000.0,128008.0,36,492.0,,0,1.0,Graduate,No,Semiurban,Married,2.845,0
+35,35486.0,171303.0,240,622.0,2.2,1,3.0,Not Graduate,Yes,Semiurban,Single,0.241,0
+49,64331.0,20000.0,24,678.0,0.1,1,2.0,Graduate,No,Urban,Single,0.155,1
+56,103175.0,256541.0,24,625.0,4.9,0,1.0,Graduate,No,Urban,Married,1.243,1
+33,27282.0,153510.0,84,637.0,6.1,2,2.0,Graduate,Yes,Semiurban,Married,0.804,0
+52,26477.0,116800.0,120,560.0,5.3,2,0.0,Graduate,No,Rural,Single,0.441,0
+27,21723.0,20000.0,24,721.0,17.2,0,1.0,Graduate,No,Urban,Married,0.46,1
+42,18992.0,147055.0,84,554.0,9.9,4,0.0,Graduate,No,Semiurban,Married,1.106,0
+48,81525.0,134122.0,180,461.0,,0,3.0,Graduate,Yes,Rural,Married,0.11,0
+22,87883.0,78236.0,240,631.0,0.3,1,0.0,Graduate,No,Rural,Married,0.045,1
+26,58911.0,96156.0,180,732.0,3.2,0,2.0,Graduate,No,Rural,Single,0.109,1
+48,44710.0,147869.0,240,657.0,5.8,1,0.0,Graduate,No,Semiurban,Single,0.165,1
+48,94405.0,102941.0,360,545.0,4.7,4,1.0,Graduate,Yes,Urban,Married,0.036,0
+40,58826.0,195750.0,84,659.0,3.9,1,0.0,Graduate,No,Semiurban,Single,0.475,0
+50,78968.0,90097.0,84,689.0,3.2,1,0.0,Not Graduate,No,Semiurban,Married,0.163,1
+31,43638.0,162369.0,60,658.0,1.7,3,0.0,Graduate,No,Semiurban,Married,0.744,0
+48,55973.0,244404.0,360,626.0,1.6,0,2.0,Graduate,No,Semiurban,Married,0.146,0
+45,27778.0,147072.0,84,694.0,3.5,2,1.0,Graduate,No,Semiurban,Single,0.756,1
+59,68843.0,178478.0,24,494.0,0.9,0,2.0,Graduate,No,Rural,Married,1.296,1
+53,59201.0,173412.0,240,570.0,2.1,5,1.0,Graduate,No,Urban,Married,0.146,0
+21,35320.0,150640.0,180,533.0,2.0,0,1.0,Not Graduate,Yes,Urban,Single,0.284,0
+47,35616.0,144639.0,240,771.0,4.4,1,1.0,Graduate,Yes,Semiurban,Single,0.203,1
+33,90551.0,104290.0,36,714.0,0.3,1,4.0,Graduate,,Urban,Single,0.384,1
+23,98377.0,162081.0,60,667.0,8.9,1,1.0,Graduate,Yes,Semiurban,Married,0.33,1
+59,50311.0,127339.0,84,519.0,4.1,1,0.0,Not Graduate,No,Urban,Single,0.362,0
+26,56491.0,273687.0,120,717.0,5.6,1,3.0,Graduate,Yes,Semiurban,Married,0.484,1
+28,63803.0,214891.0,12,775.0,6.1,1,0.0,Graduate,No,Semiurban,Single,3.0,0
+47,58257.0,33776.0,60,701.0,1.7,0,3.0,Graduate,No,Urban,Single,0.116,1
+29,18165.0,38227.0,84,647.0,3.2,1,0.0,Not Graduate,No,Urban,Single,0.301,1
+57,64413.0,139563.0,180,707.0,15.6,0,2.0,Graduate,No,Urban,Single,0.144,1
+53,15000.0,118376.0,84,675.0,7.3,1,0.0,Graduate,,Urban,Married,1.127,0
+44,38881.0,135344.0,12,733.0,17.5,1,3.0,Not Graduate,No,Semiurban,Single,3.0,0
+35,66119.0,202093.0,180,731.0,6.9,3,1.0,Not Graduate,No,Semiurban,Married,0.204,0
+52,68200.0,175259.0,240,630.0,1.0,0,0.0,Graduate,No,Semiurban,Single,0.128,1
+52,37178.0,174450.0,180,591.0,0.3,0,0.0,Not Graduate,Yes,Semiurban,Single,0.313,0
+44,44914.0,265696.0,60,614.0,4.3,1,1.0,Graduate,No,Urban,Married,1.183,0
+32,41936.0,38889.0,240,698.0,2.2,1,2.0,Graduate,Yes,Rural,Married,0.046,0
+59,52737.0,158315.0,84,619.0,1.6,0,1.0,Graduate,Yes,Urban,Single,0.429,0
+22,54411.0,103676.0,360,582.0,8.2,1,0.0,Graduate,No,Rural,Married,0.064,0
+23,69706.0,264835.0,84,650.0,,2,1.0,Graduate,No,Semiurban,Married,0.543,0
+57,43628.0,20000.0,12,750.0,1.9,1,1.0,Graduate,No,Semiurban,Married,0.458,0
+37,63215.0,20000.0,360,662.0,9.5,0,0.0,Not Graduate,No,Semiurban,Married,0.011,1
+22,66154.0,174371.0,84,625.0,9.4,0,0.0,Not Graduate,No,Rural,Single,0.377,1
+22,59362.0,240104.0,120,679.0,2.2,1,2.0,Graduate,No,Rural,Married,0.404,1
+48,49289.0,211860.0,60,658.0,8.9,4,4.0,Graduate,No,Semiurban,Married,0.86,0
+43,58974.0,85922.0,120,476.0,9.5,3,0.0,Graduate,No,Urban,Single,0.146,0
+57,71538.0,270514.0,240,713.0,2.8,1,2.0,Graduate,,Rural,Single,0.189,0
+52,73462.0,51483.0,36,687.0,0.3,1,0.0,Graduate,No,Urban,Married,0.234,1
+53,94938.0,254599.0,84,651.0,0.0,1,1.0,Graduate,No,Rural,Married,0.383,1
+21,33219.0,62062.0,24,746.0,3.7,0,,Graduate,No,Semiurban,Single,0.934,0
+39,45320.0,121854.0,24,759.0,2.1,0,0.0,Graduate,No,Rural,Married,1.344,0
+22,19504.0,201142.0,180,722.0,29.3,1,1.0,Not Graduate,No,Rural,Single,0.688,0
+46,75482.0,32703.0,120,573.0,7.4,1,3.0,Not Graduate,Yes,Urban,Single,0.043,0
+52,47641.0,267522.0,60,577.0,7.2,2,4.0,Graduate,No,Semiurban,Married,1.123,0
+26,59536.0,121364.0,84,751.0,15.5,0,0.0,Graduate,No,Urban,Single,0.291,1
+52,41705.0,160982.0,12,481.0,10.9,0,0.0,Graduate,No,Urban,Married,3.0,0
+24,47813.0,242976.0,180,637.0,1.9,2,4.0,Graduate,No,Semiurban,Married,0.339,1
+31,81910.0,86550.0,240,690.0,0.9,0,0.0,Graduate,No,Urban,Single,0.053,1
+37,70273.0,234865.0,360,492.0,6.8,4,2.0,Graduate,No,Semiurban,Married,0.111,0
+58,52547.0,281243.0,240,671.0,2.4,0,0.0,Graduate,No,Rural,Single,0.268,1
+44,71892.0,97554.0,84,736.0,3.2,1,1.0,Graduate,No,Semiurban,Single,0.194,1
+25,72378.0,259551.0,36,516.0,5.0,1,0.0,Graduate,Yes,Urban,Married,1.195,0
+54,46389.0,20000.0,360,799.0,11.9,0,3.0,Graduate,Yes,Rural,Single,0.014,0
+26,22680.0,181168.0,120,559.0,2.7,1,3.0,Graduate,No,Rural,Married,0.799,0
+42,35218.0,51712.0,84,702.0,7.6,0,0.0,Not Graduate,No,Semiurban,Married,0.21,0
+31,25508.0,225405.0,36,642.0,1.6,2,3.0,Not Graduate,No,Semiurban,Single,2.946,0
+36,80618.0,218836.0,120,656.0,6.0,1,1.0,Graduate,Yes,Rural,Married,0.271,0
+53,84439.0,316190.0,36,534.0,0.0,0,0.0,Graduate,No,Urban,Single,1.248,0
+29,89900.0,263703.0,120,763.0,10.3,1,2.0,Not Graduate,No,Rural,Single,0.293,0
+26,15000.0,136738.0,60,679.0,0.2,2,1.0,Graduate,No,Rural,Married,1.823,0
+36,78571.0,63460.0,24,796.0,6.2,0,0.0,Not Graduate,No,Rural,Married,0.404,1
+49,103668.0,195255.0,240,537.0,0.2,0,0.0,Graduate,No,Urban,Married,0.094,1
+23,79464.0,145141.0,60,634.0,1.5,1,4.0,Not Graduate,No,Rural,Single,0.365,0
+40,15000.0,274092.0,360,669.0,3.4,2,3.0,Not Graduate,No,Semiurban,Married,0.609,0
+56,93903.0,20000.0,180,655.0,,1,3.0,Graduate,No,Semiurban,Married,0.014,1
+39,55917.0,325045.0,24,710.0,1.1,1,0.0,Graduate,No,Rural,Married,2.906,1
+46,49887.0,192559.0,60,633.0,2.0,1,2.0,Graduate,No,Urban,Married,0.772,0
+23,64924.0,84959.0,84,841.0,6.5,1,0.0,Graduate,No,Urban,Single,0.187,1
+39,31922.0,208719.0,36,654.0,5.5,0,4.0,Graduate,Yes,Rural,Single,2.179,0
+40,55061.0,253794.0,360,390.0,0.4,0,,Graduate,No,Rural,Married,0.154,0
+52,90649.0,159148.0,84,658.0,6.9,0,1.0,Graduate,No,Rural,Married,0.251,0
+27,68693.0,20000.0,24,764.0,0.3,1,1.0,Graduate,No,Urban,Single,0.146,1
+53,56285.0,126492.0,36,567.0,3.9,0,3.0,Not Graduate,Yes,Semiurban,Married,0.749,0
+59,56971.0,233152.0,360,561.0,1.5,2,2.0,Graduate,No,Urban,Single,0.136,0
+38,29009.0,189733.0,180,574.0,4.4,3,1.0,Graduate,Yes,Rural,Married,0.436,0
+21,51700.0,137479.0,24,553.0,1.5,0,1.0,Graduate,,Urban,Married,1.33,1
+31,19046.0,254665.0,360,607.0,21.0,2,3.0,Graduate,No,Semiurban,Single,0.446,0
+48,77494.0,209144.0,60,732.0,1.9,3,0.0,Graduate,No,Semiurban,Married,0.54,0
+45,15000.0,215307.0,360,787.0,1.4,2,3.0,Not Graduate,No,Rural,Married,0.478,0
+43,73808.0,117149.0,24,432.0,1.6,2,4.0,Graduate,No,Semiurban,Married,0.794,0
+51,76547.0,109409.0,60,616.0,11.3,4,0.0,Graduate,No,Semiurban,Single,0.286,0
+50,84013.0,20000.0,84,677.0,5.1,0,0.0,Graduate,No,Urban,Single,0.034,1
+55,56911.0,129249.0,24,668.0,6.6,1,0.0,Graduate,Yes,Semiurban,Married,1.136,0
+27,75166.0,224831.0,12,821.0,12.5,0,0.0,Not Graduate,No,Semiurban,Single,2.991,0
+36,51486.0,133673.0,180,469.0,12.1,0,1.0,Graduate,No,Urban,Married,0.173,1
+46,28893.0,185643.0,12,417.0,6.7,3,2.0,Graduate,No,Semiurban,Married,3.0,0
+22,88676.0,238896.0,240,836.0,1.1,2,1.0,Graduate,No,Rural,Single,0.135,0
+21,52869.0,179827.0,36,718.0,9.3,1,0.0,Not Graduate,No,Urban,Single,1.134,0
+32,23991.0,187641.0,120,599.0,1.1,2,2.0,Graduate,No,Urban,Married,0.782,1
+25,44730.0,41374.0,180,665.0,6.8,1,2.0,Not Graduate,No,Semiurban,Married,0.062,0
+57,45599.0,124195.0,12,672.0,5.8,1,4.0,Graduate,No,Rural,Married,2.724,0
+52,65157.0,288130.0,120,596.0,7.1,0,0.0,Graduate,No,Urban,Single,0.442,1
+29,106635.0,158304.0,180,663.0,3.8,1,2.0,Graduate,Yes,Rural,Single,0.099,1
+55,66493.0,301739.0,120,682.0,,1,3.0,Graduate,No,Rural,Single,0.454,0
+39,59551.0,92151.0,60,831.0,15.3,2,1.0,Graduate,No,Urban,Single,0.309,1
+36,109027.0,168716.0,12,737.0,0.5,1,1.0,Graduate,No,Urban,Single,1.547,0
+23,76536.0,119386.0,360,807.0,1.8,2,0.0,Graduate,No,Semiurban,Single,0.052,1
+40,60593.0,197359.0,60,529.0,4.7,4,3.0,Not Graduate,No,Rural,Married,0.651,0
+44,44453.0,221601.0,180,619.0,16.6,1,1.0,Graduate,No,Semiurban,Married,0.332,1
+53,61956.0,198197.0,180,672.0,0.5,0,3.0,Graduate,No,Semiurban,Married,0.213,1
+44,53539.0,233348.0,24,477.0,0.1,0,3.0,Graduate,Yes,Urban,Married,2.179,0
+31,57012.0,148946.0,12,756.0,0.3,0,1.0,Graduate,No,Semiurban,Single,2.613,0
+28,83917.0,134758.0,240,708.0,0.3,3,1.0,Graduate,No,Semiurban,Single,0.08,1
+56,43113.0,20000.0,240,617.0,11.9,2,0.0,Graduate,,Urban,Married,0.023,0
+58,66298.0,201076.0,180,633.0,6.4,1,0.0,Graduate,No,Semiurban,Single,0.202,1
+40,75877.0,163775.0,240,763.0,5.7,3,2.0,Graduate,Yes,Urban,Married,0.108,1
+55,40434.0,144567.0,36,578.0,3.7,0,2.0,Graduate,No,Semiurban,Married,1.192,0
+45,36902.0,134735.0,24,766.0,7.6,1,1.0,Not Graduate,No,Urban,Married,1.826,0
+55,51692.0,147050.0,180,627.0,0.8,2,3.0,Graduate,Yes,Urban,Married,0.19,0
+45,44844.0,131101.0,240,718.0,2.5,3,0.0,Graduate,No,Rural,Married,0.146,1
+49,80351.0,107757.0,12,658.0,3.4,2,1.0,Not Graduate,No,Urban,Married,1.341,0
+38,32961.0,169167.0,360,851.0,0.6,2,1.0,Graduate,No,Semiurban,Single,0.171,0
+38,56506.0,188733.0,60,570.0,2.7,3,0.0,Graduate,No,Urban,Married,0.668,0
+22,111013.0,88355.0,60,598.0,1.9,3,4.0,Graduate,No,Urban,Married,0.159,1
+55,64087.0,117941.0,36,514.0,,0,2.0,Not Graduate,,Urban,Married,0.613,1
+36,67744.0,133630.0,120,551.0,0.7,2,1.0,Not Graduate,Yes,Urban,Single,0.197,0
+56,80535.0,150385.0,12,714.0,7.2,1,1.0,Graduate,No,Urban,Married,1.867,0
+53,44815.0,139745.0,120,794.0,0.1,1,0.0,Graduate,No,Rural,Single,0.312,0
+24,31209.0,202778.0,24,724.0,13.6,0,1.0,Graduate,Yes,Urban,Married,3.0,1
+53,58883.0,20000.0,360,650.0,0.5,0,2.0,Graduate,No,Urban,Married,0.011,1
+34,60839.0,31997.0,24,570.0,8.0,1,3.0,Graduate,No,Rural,Single,0.263,0
+41,19399.0,165486.0,180,731.0,11.4,0,3.0,Not Graduate,Yes,Urban,Married,0.569,0
+40,63252.0,101785.0,12,565.0,14.2,1,0.0,Graduate,No,Semiurban,Single,1.609,0
+28,78537.0,220739.0,180,529.0,10.1,2,1.0,Graduate,,Urban,Married,0.187,0
+27,34915.0,243584.0,84,622.0,1.7,1,0.0,Not Graduate,No,Urban,Single,0.997,0
+23,64582.0,168700.0,240,467.0,2.0,2,0.0,Not Graduate,Yes,Semiurban,Single,0.131,0
+37,74630.0,64242.0,60,526.0,2.8,0,1.0,Graduate,No,Rural,Married,0.172,1
+53,67907.0,234367.0,180,820.0,0.8,1,1.0,Graduate,Yes,Urban,Married,0.23,1
+32,69982.0,165912.0,120,509.0,0.1,1,0.0,Graduate,No,Semiurban,Married,0.237,1
+42,49614.0,31045.0,84,543.0,10.2,1,2.0,Graduate,No,Urban,Married,0.089,1
+42,30195.0,38118.0,60,656.0,4.0,1,2.0,Graduate,No,Urban,Single,0.252,0
+50,45163.0,271356.0,180,661.0,4.7,1,0.0,Graduate,No,Rural,Married,0.401,1
+58,42107.0,258091.0,84,629.0,13.1,1,2.0,Not Graduate,No,Urban,Married,0.876,0
+58,53234.0,20000.0,84,470.0,5.5,0,0.0,Graduate,Yes,Rural,Married,0.054,0
+28,79052.0,41377.0,12,726.0,5.9,3,1.0,Graduate,Yes,Urban,Married,0.523,1
+47,26140.0,241268.0,24,610.0,7.7,1,3.0,Graduate,No,Rural,Married,3.0,0
+47,58174.0,148521.0,84,760.0,0.6,4,1.0,Graduate,No,Semiurban,Married,0.365,0
+54,31605.0,206148.0,36,592.0,2.2,0,3.0,Graduate,No,Rural,Single,2.174,0
+41,38719.0,145044.0,24,738.0,17.2,0,0.0,Not Graduate,No,Urban,Married,1.873,0
+50,67292.0,202359.0,60,767.0,12.8,1,1.0,Not Graduate,No,Rural,Single,0.601,1
+53,28821.0,150467.0,60,608.0,10.8,0,1.0,Graduate,No,Semiurban,Married,1.044,0
+48,71153.0,114991.0,60,729.0,3.0,0,2.0,Not Graduate,No,Semiurban,Single,0.323,0
+53,25252.0,234700.0,60,530.0,9.7,2,3.0,Graduate,No,Rural,Single,1.859,0
+25,69674.0,166164.0,36,674.0,0.2,2,2.0,Graduate,No,Semiurban,Married,0.795,0
+39,20910.0,202191.0,180,760.0,0.8,0,2.0,Graduate,No,Rural,Single,0.645,0
+24,41408.0,162596.0,360,697.0,2.7,2,0.0,Not Graduate,No,Semiurban,Single,0.131,1
+55,96723.0,111091.0,84,867.0,3.3,1,1.0,Graduate,No,Semiurban,Married,0.164,1
+37,92588.0,278671.0,60,702.0,1.5,0,2.0,Graduate,No,Rural,Single,0.602,1
+48,45924.0,178397.0,24,617.0,2.2,1,1.0,Not Graduate,No,Urban,Married,1.942,0
+50,63579.0,121596.0,24,900.0,,1,4.0,Graduate,No,Semiurban,Married,0.956,1
+49,81489.0,252266.0,84,797.0,3.4,0,0.0,Graduate,No,Rural,Married,0.442,1
+26,69989.0,44334.0,180,506.0,7.9,2,,Graduate,No,Semiurban,Single,0.042,0
+55,48984.0,328903.0,360,579.0,5.4,0,1.0,Graduate,Yes,Urban,Married,0.224,1
+57,38530.0,135668.0,180,557.0,0.6,2,3.0,Graduate,No,Urban,Married,0.235,0
+44,74098.0,48559.0,84,708.0,3.3,0,3.0,Graduate,No,Rural,Married,0.094,1
+49,79875.0,302475.0,120,701.0,6.0,1,0.0,Not Graduate,No,Rural,Single,0.379,1
+51,92745.0,112947.0,36,701.0,3.8,2,0.0,Graduate,No,Rural,Single,0.406,0
+55,17881.0,169460.0,84,503.0,,1,1.0,Graduate,Yes,Semiurban,Married,1.354,0
+53,27431.0,207415.0,240,593.0,4.9,1,1.0,Graduate,No,Semiurban,Single,0.378,1
+41,80562.0,244734.0,12,637.0,17.3,0,,Not Graduate,No,Urban,Married,3.0,0
+52,20866.0,173982.0,12,486.0,0.5,1,1.0,Not Graduate,No,Urban,Married,3.0,0
+43,82248.0,98215.0,180,572.0,2.5,2,,Graduate,Yes,Urban,Married,0.08,0
+53,50271.0,167519.0,84,772.0,2.6,2,1.0,Graduate,No,Urban,Single,0.476,0
+23,43540.0,116455.0,84,510.0,4.3,1,1.0,Not Graduate,No,Rural,Single,0.382,0
+38,59519.0,169921.0,12,781.0,0.8,1,3.0,Not Graduate,No,Rural,Married,2.855,0
+45,25402.0,280252.0,360,748.0,1.0,2,0.0,Graduate,No,Semiurban,Married,0.368,0
+51,73128.0,210474.0,12,624.0,1.7,1,0.0,Graduate,,Rural,Married,2.878,0
+23,92172.0,166532.0,84,592.0,15.6,2,4.0,Graduate,No,Rural,Married,0.258,0
+44,74153.0,209079.0,360,725.0,6.6,0,0.0,Graduate,Yes,Semiurban,Single,0.094,1
+52,49577.0,214806.0,60,579.0,5.4,3,2.0,Not Graduate,No,Semiurban,Married,0.867,0
+42,21163.0,63770.0,240,584.0,,0,1.0,Graduate,No,Urban,Married,0.151,1
+43,22009.0,153338.0,120,648.0,0.7,0,1.0,Graduate,No,Semiurban,Single,0.697,0
+22,25748.0,355002.0,36,458.0,9.8,1,0.0,Graduate,No,Urban,Married,3.0,0
+47,54730.0,247026.0,60,520.0,4.5,0,0.0,Graduate,Yes,Semiurban,Single,0.903,0
+22,57495.0,109725.0,24,622.0,2.0,2,1.0,Graduate,No,Rural,Single,0.954,0
+46,74106.0,101743.0,12,693.0,8.5,2,0.0,Graduate,Yes,Urban,Single,1.373,0
+37,15487.0,99078.0,240,578.0,8.1,0,1.0,Graduate,,Urban,Married,0.32,0
+53,83847.0,219306.0,12,632.0,9.3,1,0.0,Graduate,No,Semiurban,Married,2.616,0
+29,70277.0,278611.0,12,505.0,0.6,1,2.0,Graduate,No,Semiurban,Married,3.0,1
+59,47810.0,196573.0,60,734.0,17.4,0,3.0,Not Graduate,No,Urban,Married,0.822,0
+49,28825.0,162573.0,120,670.0,16.0,5,0.0,Not Graduate,,Urban,Single,0.564,0
+46,82481.0,114468.0,360,678.0,2.2,1,0.0,Graduate,No,Rural,Married,0.046,1
+55,48398.0,176350.0,12,694.0,0.3,0,3.0,Not Graduate,No,Urban,Single,3.0,0
+45,54560.0,84390.0,180,657.0,0.9,3,2.0,Graduate,No,Rural,Married,0.103,1
+44,63439.0,20000.0,84,606.0,24.7,0,0.0,Graduate,Yes,Semiurban,Single,0.045,1
+33,34910.0,280946.0,240,752.0,4.1,0,1.0,Not Graduate,Yes,Semiurban,Married,0.402,0
+27,48792.0,69535.0,180,664.0,2.2,0,0.0,Graduate,No,Urban,Married,0.095,1
+56,74037.0,124013.0,60,635.0,1.7,2,0.0,Graduate,Yes,Rural,Married,0.335,0
+40,71810.0,202509.0,60,649.0,1.5,0,4.0,Not Graduate,No,Rural,Single,0.564,0
+21,72008.0,264757.0,120,647.0,5.5,1,2.0,Not Graduate,No,Urban,Married,0.368,0
+28,29586.0,170570.0,120,634.0,2.7,1,2.0,Graduate,No,Urban,Married,0.577,0
+36,49795.0,54503.0,360,690.0,16.8,0,0.0,Not Graduate,No,Urban,Married,0.036,1
+34,46279.0,125892.0,84,566.0,5.8,0,,Graduate,No,Rural,Married,0.389,1
+32,64354.0,95721.0,240,572.0,7.9,0,3.0,Graduate,Yes,Semiurban,Single,0.074,0
+43,62384.0,146943.0,84,700.0,1.7,1,0.0,Graduate,No,Urban,Single,0.336,1
+35,58419.0,248559.0,24,637.0,0.4,1,1.0,Graduate,No,Urban,Married,2.127,0
+48,109246.0,20000.0,120,737.0,3.3,0,0.0,Graduate,No,Semiurban,Married,0.018,1
+54,48602.0,117089.0,360,687.0,1.9,0,1.0,Graduate,No,Rural,Married,0.08,1
+22,46028.0,111276.0,36,600.0,1.1,3,0.0,Graduate,No,Semiurban,Single,0.806,0
+52,29552.0,49459.0,12,702.0,15.3,0,0.0,Graduate,No,Urban,Married,1.674,0
+43,21167.0,196839.0,12,758.0,2.9,0,3.0,Graduate,No,Urban,Single,3.0,0
+42,28153.0,36802.0,36,690.0,1.0,1,2.0,Graduate,No,Semiurban,Single,0.436,0
+45,39189.0,46008.0,84,710.0,1.1,2,0.0,Not Graduate,No,Urban,Single,0.168,0
+42,83822.0,218086.0,36,635.0,1.6,2,2.0,Graduate,No,Rural,Single,0.867,0
+42,55862.0,270046.0,360,739.0,35.0,3,0.0,Graduate,No,Semiurban,Married,0.161,1
+26,59253.0,143912.0,240,598.0,1.6,0,1.0,Graduate,No,Urban,Single,0.121,1
+35,52882.0,52608.0,36,680.0,2.0,1,2.0,Not Graduate,,Semiurban,Single,0.332,0
+57,63037.0,93556.0,360,881.0,5.4,1,0.0,Graduate,No,Semiurban,Married,0.049,1
+53,85846.0,230640.0,120,698.0,1.7,3,1.0,Graduate,No,Semiurban,Single,0.269,1
+28,15000.0,159315.0,180,612.0,1.2,0,2.0,Graduate,No,Rural,Single,0.708,0
+25,81803.0,141917.0,60,612.0,0.9,3,4.0,Graduate,No,Semiurban,Single,0.347,0
+59,15000.0,175044.0,60,644.0,1.9,2,1.0,Graduate,No,Rural,Married,2.334,0
+24,55620.0,146987.0,24,727.0,0.6,2,0.0,Graduate,Yes,Semiurban,Married,1.321,0
+26,103222.0,273657.0,84,663.0,0.1,0,0.0,Not Graduate,No,Urban,Married,0.379,1
+52,69974.0,90069.0,240,592.0,8.2,1,1.0,Graduate,No,Urban,Single,0.064,0
+50,63207.0,80883.0,180,591.0,0.7,3,0.0,Not Graduate,No,Rural,Single,0.085,0
+55,99043.0,39324.0,180,664.0,7.5,0,1.0,Not Graduate,No,Rural,Single,0.026,0
+36,39533.0,106801.0,120,654.0,8.0,0,2.0,Not Graduate,Yes,Semiurban,Married,0.27,1
+33,64547.0,62642.0,36,691.0,3.9,1,0.0,Not Graduate,No,Semiurban,Single,0.323,1
+50,67719.0,167446.0,84,733.0,1.9,2,0.0,Not Graduate,No,Urban,Married,0.353,1
+39,43507.0,151676.0,12,895.0,0.8,0,1.0,Graduate,No,Semiurban,Married,3.0,0
+37,45450.0,63674.0,180,518.0,6.7,2,0.0,Graduate,No,Rural,Single,0.093,1
+39,43037.0,197131.0,360,712.0,4.6,3,4.0,Graduate,No,Rural,Married,0.153,0
+48,56921.0,271345.0,12,659.0,5.3,0,1.0,Not Graduate,No,Urban,Married,3.0,0
+46,67027.0,178627.0,24,484.0,,2,3.0,Graduate,No,Urban,Single,1.333,0
+57,57711.0,20000.0,36,762.0,13.1,2,3.0,Graduate,No,Semiurban,Married,0.116,1
+46,70608.0,308970.0,36,688.0,0.3,2,3.0,Graduate,,Semiurban,Single,1.459,0
+43,15000.0,209754.0,240,722.0,2.3,0,0.0,Not Graduate,No,Urban,Married,0.699,0
+29,50198.0,306513.0,180,497.0,2.6,1,4.0,Not Graduate,No,Semiurban,Married,0.407,0
+32,32485.0,237258.0,120,630.0,0.0,0,0.0,Graduate,No,Urban,Married,0.73,1
+21,61638.0,253241.0,60,553.0,3.4,4,0.0,Graduate,No,Rural,Single,0.822,1
+21,61312.0,166421.0,360,845.0,7.0,0,,Graduate,No,Rural,Married,0.09,0
+54,52456.0,129016.0,12,753.0,8.7,0,0.0,Graduate,No,Rural,Single,2.46,0
+52,66226.0,179878.0,24,589.0,10.6,0,0.0,Graduate,No,Rural,Married,1.358,0
+45,76952.0,93297.0,60,512.0,3.3,2,0.0,Graduate,No,Semiurban,Single,0.242,0
+21,53669.0,184710.0,36,667.0,5.0,0,0.0,Not Graduate,No,Rural,Married,1.147,0
+36,31863.0,20000.0,12,748.0,0.4,1,2.0,Graduate,No,Semiurban,Married,0.628,1
+59,20212.0,153435.0,84,494.0,3.3,1,0.0,Graduate,,Rural,Married,1.084,0
+25,55794.0,257574.0,180,566.0,0.8,1,1.0,Graduate,Yes,Urban,Married,0.308,0
+42,60321.0,157545.0,24,550.0,2.3,1,4.0,Graduate,No,Rural,Married,1.306,0
+49,33670.0,288199.0,84,728.0,2.0,0,1.0,Graduate,No,Urban,Married,1.223,0
+23,70967.0,128900.0,120,617.0,2.8,1,2.0,Graduate,No,Urban,Single,0.182,1
+32,44903.0,230212.0,180,620.0,4.2,0,4.0,Not Graduate,No,Semiurban,Married,0.342,0
+46,18558.0,79738.0,12,666.0,11.7,0,0.0,Graduate,No,Semiurban,Married,3.0,0
+36,82642.0,226957.0,180,571.0,2.5,3,1.0,Graduate,No,Urban,Single,0.183,1
+57,80168.0,168608.0,60,520.0,19.9,1,3.0,Not Graduate,No,Semiurban,Married,0.421,1
+42,15000.0,132420.0,240,773.0,7.1,0,4.0,Not Graduate,Yes,Rural,Married,0.441,0
+49,42623.0,20000.0,60,782.0,3.6,0,2.0,Graduate,No,Urban,Married,0.094,1
+34,41765.0,129650.0,120,666.0,5.2,1,0.0,Not Graduate,No,Semiurban,Married,0.31,1
+48,91069.0,167076.0,360,673.0,0.5,0,3.0,Not Graduate,No,Urban,Married,0.061,0
+25,52816.0,216297.0,84,763.0,9.3,0,0.0,Not Graduate,No,Semiurban,Married,0.585,1
+50,22091.0,274876.0,60,664.0,4.4,0,1.0,Not Graduate,No,Semiurban,Single,2.489,0
+25,74406.0,312803.0,240,612.0,21.4,1,1.0,Graduate,No,Urban,Married,0.21,1
+32,27923.0,249701.0,360,654.0,5.1,1,1.0,Graduate,No,Rural,Married,0.298,0
+36,49273.0,105033.0,60,775.0,9.0,0,2.0,Graduate,No,Semiurban,Married,0.426,1
+46,38065.0,125616.0,36,655.0,8.0,2,3.0,Graduate,No,Rural,Married,1.1,0
+46,42670.0,209113.0,240,590.0,2.1,1,2.0,Not Graduate,No,Semiurban,Married,0.245,0
+41,75620.0,191569.0,84,663.0,1.5,0,0.0,Not Graduate,No,Rural,Single,0.362,0
+59,88469.0,280268.0,24,709.0,2.8,0,1.0,Graduate,No,Urban,Single,1.584,0
+56,26964.0,348351.0,360,698.0,3.1,0,2.0,Graduate,No,Urban,Single,0.431,0
+53,68774.0,331374.0,36,700.0,1.4,2,,Graduate,Yes,Semiurban,Married,1.606,0
+50,38879.0,269515.0,24,576.0,11.2,2,4.0,Graduate,No,Rural,Single,3.0,0
+57,39563.0,192232.0,12,719.0,3.9,0,3.0,Graduate,No,Urban,Married,3.0,0
+43,65794.0,257946.0,240,653.0,19.2,1,2.0,Graduate,No,Rural,Married,0.196,0
+30,32386.0,282915.0,36,586.0,8.3,1,0.0,Graduate,,Urban,Married,2.912,0
+25,65353.0,138216.0,180,719.0,4.1,1,2.0,Graduate,No,Urban,Single,0.141,1
+56,71062.0,107387.0,12,609.0,14.7,1,3.0,Graduate,,Urban,Married,1.511,0
+54,45484.0,88606.0,12,508.0,3.5,0,1.0,Not Graduate,No,Semiurban,Married,1.948,0
+51,84196.0,79889.0,360,560.0,10.9,3,3.0,Graduate,No,Rural,Single,0.032,1
+30,26998.0,39440.0,240,634.0,2.2,0,,Not Graduate,No,Urban,Married,0.073,1
+39,84599.0,169992.0,36,702.0,2.4,2,1.0,Graduate,No,Semiurban,Single,0.67,1
+52,15000.0,70020.0,120,572.0,2.7,3,2.0,Graduate,No,Urban,Married,0.467,0
+21,114394.0,87318.0,36,628.0,4.0,0,2.0,Graduate,No,Semiurban,Married,0.254,1
+25,46064.0,206100.0,60,541.0,4.0,3,3.0,Not Graduate,Yes,Urban,Married,0.895,0
+24,29429.0,164529.0,12,738.0,3.4,0,0.0,Graduate,Yes,Semiurban,Married,3.0,0
+36,49881.0,184370.0,84,805.0,1.8,1,0.0,Graduate,No,Semiurban,Married,0.528,1
+44,31977.0,259212.0,12,795.0,13.1,1,2.0,Graduate,No,Semiurban,Single,3.0,0
+36,63513.0,219162.0,12,737.0,4.4,1,0.0,Graduate,Yes,Urban,Single,3.0,0
+22,85088.0,271511.0,180,728.0,2.6,1,1.0,Graduate,No,Urban,Single,0.213,1
+48,33144.0,156398.0,120,464.0,5.3,1,0.0,Graduate,No,Semiurban,Married,0.472,0
+52,67747.0,278943.0,24,666.0,7.3,0,0.0,Graduate,,Rural,Married,2.059,0
+47,21280.0,178779.0,24,605.0,16.2,4,2.0,Graduate,No,Rural,Married,3.0,0
+40,77725.0,163497.0,180,729.0,3.5,1,2.0,Graduate,No,Rural,Single,0.14,1
+44,64157.0,266922.0,12,422.0,0.6,1,0.0,Graduate,No,Rural,Single,3.0,0
+32,78676.0,80228.0,24,667.0,2.9,0,0.0,Not Graduate,No,Semiurban,Single,0.51,1
+55,52308.0,311888.0,240,631.0,3.3,1,0.0,Graduate,No,Urban,Married,0.298,1
+53,45427.0,127432.0,120,751.0,11.4,1,1.0,Not Graduate,No,Urban,Married,0.281,0
+53,72955.0,52551.0,24,789.0,2.5,2,0.0,Graduate,Yes,Semiurban,Single,0.36,1
+57,26223.0,202280.0,180,566.0,15.3,1,1.0,Not Graduate,No,Semiurban,Married,0.514,0
+32,16658.0,119814.0,60,570.0,3.3,2,2.0,Graduate,Yes,Rural,Married,1.439,0
+23,54891.0,312065.0,24,671.0,18.2,0,2.0,Graduate,No,Urban,Single,2.843,0
+21,46429.0,115368.0,120,806.0,0.0,1,0.0,Not Graduate,No,Semiurban,Married,0.248,1
+53,67184.0,175156.0,360,655.0,,3,2.0,Not Graduate,No,Semiurban,Married,0.087,0
+30,79014.0,35953.0,360,535.0,13.4,2,3.0,Not Graduate,No,Semiurban,Married,0.015,0
+49,66726.0,215033.0,240,595.0,16.2,1,0.0,Not Graduate,No,Urban,Married,0.161,1
+33,77262.0,87809.0,36,668.0,0.1,0,0.0,Graduate,No,Rural,Married,0.379,0
+32,62063.0,205466.0,36,672.0,0.9,1,1.0,Graduate,No,Urban,Married,1.104,0
+51,65881.0,115732.0,24,587.0,5.3,0,0.0,Graduate,No,Rural,Single,0.878,1
+22,52434.0,20000.0,84,594.0,0.1,1,2.0,Not Graduate,No,Rural,Married,0.054,0
+55,65231.0,160495.0,60,562.0,0.3,0,3.0,Graduate,No,Urban,Married,0.492,0
+43,58666.0,156914.0,180,753.0,1.2,1,1.0,Not Graduate,Yes,Urban,Married,0.178,1
+37,62154.0,220486.0,60,575.0,3.6,3,2.0,Graduate,No,Rural,Married,0.709,1
+46,51332.0,274480.0,360,608.0,3.9,0,2.0,Graduate,,Semiurban,Single,0.178,1
+28,72796.0,302993.0,24,606.0,0.2,1,0.0,Graduate,No,Urban,Single,2.081,0
+49,39370.0,219132.0,120,505.0,0.9,1,0.0,Graduate,Yes,Rural,Married,0.557,0
+46,54596.0,172290.0,180,572.0,3.5,1,3.0,Graduate,No,Semiurban,Married,0.21,0
+30,83859.0,35813.0,60,761.0,4.5,1,4.0,Graduate,No,Urban,Single,0.085,1
+46,34128.0,166162.0,120,541.0,0.8,1,2.0,Not Graduate,No,Semiurban,Married,0.487,0
+54,15000.0,167195.0,180,563.0,2.5,0,3.0,Not Graduate,No,Urban,Married,0.743,0
+27,63062.0,134109.0,60,530.0,11.7,0,0.0,Graduate,No,Urban,Married,0.425,1
+24,49347.0,200637.0,240,642.0,34.1,2,,Not Graduate,Yes,Semiurban,Married,0.203,1
+31,77239.0,239752.0,360,820.0,21.8,0,1.0,Graduate,Yes,Semiurban,Married,0.103,1
+49,52129.0,84528.0,12,638.0,10.7,1,0.0,Graduate,No,Semiurban,Married,1.622,0
+56,41705.0,83281.0,180,656.0,2.5,0,3.0,Graduate,No,Rural,Married,0.133,1
+45,53332.0,138857.0,360,578.0,5.8,0,4.0,Graduate,No,Rural,Single,0.087,0
+41,79048.0,100782.0,84,644.0,2.7,0,3.0,Graduate,No,Urban,Married,0.182,1
+56,67658.0,20000.0,24,761.0,5.2,0,1.0,Not Graduate,No,Urban,Married,0.148,1
+30,15000.0,70273.0,120,663.0,1.9,0,0.0,Graduate,,Semiurban,Married,0.468,0
+57,59087.0,51414.0,180,842.0,4.7,1,0.0,Graduate,Yes,Semiurban,Married,0.058,1
+29,60187.0,246676.0,24,763.0,3.7,0,1.0,Graduate,Yes,Rural,Married,2.049,0
+44,54599.0,286226.0,24,642.0,0.1,1,2.0,Graduate,No,Semiurban,Married,2.621,1
+55,41560.0,62365.0,12,640.0,7.8,1,1.0,Graduate,No,Urban,Single,1.501,1
+55,81280.0,193686.0,60,797.0,0.1,1,4.0,Graduate,No,Semiurban,Single,0.477,1
+56,82369.0,219881.0,180,662.0,1.7,1,3.0,Graduate,No,Rural,Married,0.178,1
+38,15000.0,30618.0,360,777.0,0.0,2,0.0,Not Graduate,No,Rural,Single,0.068,0
+59,37445.0,162878.0,36,830.0,2.4,2,0.0,Graduate,No,Urban,Married,1.45,0
+52,51816.0,352681.0,180,632.0,0.3,0,2.0,Graduate,No,Semiurban,Married,0.454,0
+44,75867.0,204172.0,180,682.0,12.2,1,0.0,Graduate,No,Urban,Single,0.179,1
+43,55767.0,130376.0,180,738.0,2.7,1,2.0,Graduate,No,Semiurban,Single,0.156,1
+52,39961.0,105185.0,24,719.0,3.1,3,1.0,Not Graduate,,Urban,Married,1.316,0
+57,70610.0,20000.0,120,718.0,2.2,0,0.0,Graduate,No,Rural,Married,0.028,0
+32,50351.0,187638.0,24,530.0,4.9,1,1.0,Graduate,No,Semiurban,Married,1.863,0
+33,52417.0,305825.0,120,574.0,7.7,2,1.0,Graduate,Yes,Rural,Married,0.583,0
+43,54403.0,84916.0,36,605.0,5.2,1,3.0,Graduate,No,Rural,Single,0.52,1
+45,67635.0,20000.0,24,759.0,6.9,1,0.0,Graduate,No,Urban,Married,0.148,1
+55,48212.0,96862.0,120,539.0,11.8,1,3.0,Graduate,No,Semiurban,Married,0.201,0
+50,70113.0,220528.0,24,787.0,10.0,1,2.0,Not Graduate,No,Rural,Married,1.573,0
+37,53392.0,115720.0,84,720.0,5.6,1,2.0,Not Graduate,No,Semiurban,Married,0.31,1
+40,31526.0,84363.0,24,754.0,1.2,1,0.0,Graduate,No,Semiurban,Single,1.338,1
+45,54191.0,151532.0,36,566.0,5.1,1,2.0,Not Graduate,Yes,Semiurban,Single,0.932,0
+42,32665.0,168376.0,36,657.0,3.5,1,1.0,Graduate,Yes,Semiurban,Married,1.718,0
+33,55902.0,38929.0,120,677.0,6.3,1,1.0,Graduate,No,Semiurban,Married,0.07,1
+39,73248.0,132617.0,120,673.0,8.9,1,2.0,Graduate,No,Semiurban,Married,0.181,0
+56,31380.0,110219.0,36,677.0,6.8,0,1.0,Graduate,No,Urban,Married,1.171,0
+32,63014.0,98728.0,36,625.0,9.4,1,3.0,Not Graduate,,Urban,Married,0.522,0
+39,36761.0,68637.0,12,662.0,,0,0.0,Graduate,No,Urban,Married,1.867,0
+32,59437.0,225301.0,180,743.0,0.2,3,3.0,Not Graduate,Yes,Urban,Married,0.253,0
+29,73924.0,98449.0,240,545.0,1.5,0,0.0,Graduate,No,Semiurban,Married,0.067,1
+27,15000.0,20000.0,24,789.0,11.5,1,3.0,Graduate,No,Urban,Single,0.667,0
+48,30482.0,171144.0,60,738.0,8.7,1,4.0,Not Graduate,No,Urban,Married,1.123,0
+34,46882.0,208016.0,180,563.0,5.7,3,0.0,Graduate,No,Rural,Single,0.296,1
+51,61931.0,86319.0,240,685.0,6.0,1,1.0,Graduate,Yes,Rural,Married,0.07,0
+39,51340.0,105227.0,12,731.0,6.5,2,2.0,Graduate,No,Rural,Single,2.05,0
+36,53991.0,98076.0,60,539.0,,1,0.0,Graduate,Yes,Rural,Married,0.363,0
+25,99946.0,122268.0,120,654.0,8.9,0,1.0,Not Graduate,No,Urban,Single,0.122,1
+55,28326.0,238548.0,36,643.0,4.9,1,1.0,Graduate,No,Urban,Married,2.807,0
+32,79981.0,140875.0,84,592.0,5.5,1,3.0,Graduate,,Urban,Single,0.252,1
+45,47300.0,217167.0,360,658.0,1.2,1,3.0,Not Graduate,No,Rural,Single,0.153,0
+41,67088.0,72493.0,36,596.0,5.4,3,2.0,Graduate,No,Rural,Married,0.36,1
+56,101837.0,119305.0,84,774.0,2.8,1,2.0,Graduate,No,Urban,Married,0.167,1
+43,70151.0,226321.0,240,594.0,0.8,1,2.0,Graduate,No,Urban,Single,0.161,0
+36,63195.0,85552.0,120,721.0,,1,1.0,Graduate,Yes,Semiurban,Single,0.135,0
+59,90181.0,230971.0,60,501.0,3.6,0,1.0,Graduate,No,Urban,Single,0.512,0
+59,79746.0,99729.0,240,635.0,19.0,2,1.0,Graduate,No,Semiurban,Single,0.063,1
+34,37413.0,124267.0,36,651.0,1.7,2,4.0,Not Graduate,Yes,Rural,Single,1.107,0
+51,61480.0,283613.0,36,633.0,3.3,1,,Graduate,Yes,Semiurban,Married,1.538,0
+25,17215.0,115134.0,60,614.0,3.0,0,1.0,Graduate,No,Rural,Married,1.338,0
+55,43117.0,161628.0,360,590.0,0.6,0,,Graduate,No,Semiurban,Married,0.125,1
+43,61909.0,199315.0,84,718.0,2.8,2,1.0,Graduate,No,Semiurban,Married,0.46,1
+49,41754.0,168121.0,240,740.0,1.7,1,2.0,Not Graduate,No,Rural,Married,0.201,1
+31,61014.0,170404.0,120,643.0,0.9,0,,Graduate,No,Semiurban,Married,0.279,1
+38,54706.0,145477.0,36,551.0,1.7,2,0.0,Graduate,No,Semiurban,Married,0.886,0
+32,66801.0,45821.0,240,811.0,1.3,3,2.0,Graduate,Yes,Semiurban,Married,0.034,0
+29,45668.0,177863.0,360,571.0,6.6,1,2.0,Graduate,No,Rural,Married,0.13,1
+30,34317.0,91403.0,240,519.0,0.2,2,1.0,Graduate,No,Urban,Married,0.133,0
+37,87519.0,212061.0,60,469.0,4.8,1,1.0,Graduate,No,Urban,Married,0.485,0
+58,44095.0,259765.0,120,659.0,7.1,0,2.0,Graduate,No,Semiurban,Married,0.589,0
+27,69520.0,20000.0,12,630.0,3.3,1,2.0,Graduate,No,Rural,Single,0.288,1
+33,86575.0,259905.0,60,743.0,13.4,0,3.0,Graduate,No,Rural,Married,0.6,1
+29,58579.0,117115.0,240,705.0,6.2,3,1.0,Graduate,No,Urban,Single,0.1,1
+47,36161.0,139524.0,12,676.0,6.9,1,4.0,Graduate,Yes,Urban,Married,3.0,0
+22,51071.0,77009.0,36,626.0,1.1,1,2.0,Not Graduate,No,Rural,Married,0.503,0
+25,77386.0,165077.0,12,750.0,7.5,1,2.0,Graduate,No,Urban,Married,2.133,0
+49,59537.0,155345.0,360,818.0,8.9,1,2.0,Not Graduate,No,Urban,Married,0.087,0
+57,28487.0,236154.0,24,741.0,2.2,0,0.0,Graduate,No,Urban,Married,3.0,0
+58,68126.0,90689.0,360,608.0,1.2,0,0.0,Not Graduate,No,Urban,Married,0.044,0
+39,71930.0,282864.0,60,720.0,2.4,3,2.0,Graduate,No,Semiurban,Single,0.786,1
+28,47183.0,203177.0,24,614.0,6.7,2,1.0,Graduate,No,Semiurban,Single,2.153,0
+21,68425.0,157278.0,60,551.0,2.7,1,2.0,Graduate,No,Semiurban,Single,0.46,0
+42,60390.0,135537.0,120,569.0,6.7,0,1.0,Graduate,No,Rural,Single,0.224,1
+37,50657.0,125474.0,180,618.0,0.6,2,0.0,Graduate,No,Urban,Married,0.165,0
+27,26542.0,130692.0,36,659.0,8.2,1,0.0,Graduate,No,Urban,Married,1.641,0
+45,78715.0,163472.0,36,835.0,1.5,0,2.0,Graduate,No,Rural,Married,0.692,1
+24,71703.0,133280.0,240,571.0,1.4,1,0.0,Graduate,,Rural,Married,0.093,1
+56,67845.0,98758.0,84,769.0,4.5,1,2.0,Graduate,Yes,Urban,Single,0.208,1
+26,88980.0,163957.0,60,621.0,0.4,0,1.0,Graduate,No,Urban,Single,0.369,0
+51,75794.0,83097.0,180,469.0,0.1,2,2.0,Graduate,No,Urban,Single,0.073,0
+39,70104.0,175797.0,180,604.0,1.5,5,0.0,Graduate,,Semiurban,Single,0.167,0
+59,15000.0,132155.0,360,756.0,3.9,2,0.0,Graduate,No,Urban,Married,0.294,1
+47,81332.0,205738.0,360,681.0,11.9,0,2.0,Graduate,No,Semiurban,Married,0.084,1
+30,56828.0,229126.0,84,686.0,9.4,1,1.0,Graduate,No,Urban,Married,0.576,1
+46,61875.0,229094.0,240,770.0,3.4,1,0.0,Graduate,,Rural,Single,0.185,1
+39,62025.0,175448.0,12,557.0,0.2,2,3.0,Not Graduate,No,Semiurban,Single,2.829,0
+59,72024.0,184786.0,360,555.0,3.8,0,0.0,Graduate,,Semiurban,Married,0.086,1
+23,79688.0,124180.0,240,446.0,6.1,1,1.0,Not Graduate,No,Urban,Married,0.078,0
+33,68953.0,204211.0,120,729.0,,0,0.0,Graduate,No,Urban,Married,0.296,1
+48,65456.0,213240.0,36,701.0,0.6,2,1.0,Not Graduate,No,Semiurban,Married,1.086,1
+40,60093.0,24614.0,36,715.0,1.6,1,1.0,Not Graduate,No,Rural,Single,0.137,1
+48,15000.0,180268.0,240,544.0,7.4,1,0.0,Graduate,No,Semiurban,Married,0.601,0
+28,48673.0,259450.0,84,506.0,2.2,3,2.0,Graduate,No,Semiurban,Married,0.761,0
+59,34285.0,121497.0,180,531.0,8.4,2,1.0,Graduate,No,Urban,Married,0.236,0
+21,81636.0,104036.0,84,567.0,1.9,0,2.0,Graduate,Yes,Semiurban,Single,0.182,0
+23,68619.0,116411.0,240,790.0,0.9,2,0.0,Not Graduate,No,Urban,Married,0.085,1
+33,44921.0,29610.0,60,740.0,2.9,0,1.0,Not Graduate,No,Urban,Married,0.132,1
+48,47130.0,160079.0,24,609.0,3.0,2,0.0,Not Graduate,,Rural,Married,1.698,0
+45,46332.0,152397.0,36,677.0,0.1,0,2.0,Not Graduate,Yes,Rural,Married,1.096,0
+53,45940.0,165762.0,240,589.0,0.6,1,2.0,Not Graduate,Yes,Semiurban,Married,0.18,0
+58,23220.0,183278.0,180,683.0,1.0,0,3.0,Graduate,No,Rural,Single,0.526,0
+26,18452.0,86161.0,24,548.0,0.6,0,1.0,Graduate,Yes,Rural,Single,2.335,0
+52,55639.0,171856.0,120,718.0,2.1,1,2.0,Graduate,No,Urban,Married,0.309,1
+41,78657.0,185456.0,360,574.0,16.7,2,2.0,Graduate,No,Rural,Married,0.079,1
+36,43171.0,110929.0,60,723.0,3.6,1,0.0,Graduate,No,Semiurban,Single,0.514,1
+41,61676.0,183609.0,360,612.0,4.9,0,0.0,Graduate,No,Rural,Single,0.099,1
+31,71154.0,156457.0,24,579.0,2.2,2,1.0,Graduate,No,Semiurban,Married,1.099,0
+57,33146.0,99505.0,24,795.0,2.0,0,2.0,Graduate,No,Semiurban,Married,1.501,0
+56,54561.0,172623.0,360,666.0,0.1,0,0.0,Not Graduate,Yes,Semiurban,Single,0.105,0
+55,40337.0,126743.0,180,621.0,3.5,0,2.0,Graduate,No,Urban,Married,0.209,0
+39,90335.0,205765.0,180,718.0,3.3,1,1.0,Graduate,No,Rural,Single,0.152,1
+40,89374.0,130867.0,12,529.0,0.9,1,1.0,Not Graduate,No,Urban,Single,1.464,0
+38,33168.0,46819.0,120,750.0,7.2,2,0.0,Graduate,Yes,Urban,Married,0.141,0
+34,63489.0,171359.0,180,637.0,3.4,0,1.0,Graduate,Yes,Urban,Single,0.18,1
+35,78487.0,168352.0,120,704.0,2.1,0,0.0,Graduate,No,Urban,Married,0.214,1
+51,73663.0,63509.0,120,511.0,0.8,0,0.0,Graduate,No,Urban,Single,0.086,0
+21,56794.0,210043.0,24,616.0,4.0,4,2.0,Not Graduate,No,Urban,Married,1.849,0
+23,83744.0,205858.0,120,650.0,7.0,2,0.0,Graduate,No,Semiurban,Married,0.246,0
+36,35101.0,80402.0,60,743.0,1.7,0,0.0,Graduate,No,Semiurban,Single,0.458,1
+43,48332.0,97230.0,360,711.0,1.2,1,0.0,Graduate,No,Urban,Single,0.067,1
+31,35692.0,138639.0,12,615.0,3.7,0,1.0,Not Graduate,No,Urban,Single,3.0,0
+32,72215.0,89292.0,240,679.0,0.8,2,0.0,Graduate,No,Rural,Married,0.062,1
+30,42182.0,201232.0,84,763.0,5.5,2,0.0,Not Graduate,No,Urban,Married,0.682,0
+52,51233.0,161918.0,12,632.0,4.6,1,1.0,Graduate,No,Urban,Married,3.0,0
+36,68589.0,62515.0,60,622.0,0.5,2,1.0,Not Graduate,No,Urban,Single,0.182,0
+28,70361.0,84202.0,12,480.0,0.2,0,4.0,Not Graduate,Yes,Urban,Married,1.197,0
+58,35043.0,245018.0,120,625.0,4.8,1,1.0,Not Graduate,No,Semiurban,Married,0.699,0
+32,78246.0,272845.0,24,493.0,1.7,1,1.0,Graduate,Yes,Urban,Married,1.744,0
+44,65025.0,193098.0,84,640.0,0.5,1,1.0,Not Graduate,Yes,Semiurban,Married,0.424,0
+48,31203.0,133098.0,180,739.0,7.1,0,0.0,Graduate,No,Urban,Single,0.284,0
+28,25790.0,114803.0,24,459.0,1.9,1,3.0,Not Graduate,No,Semiurban,Single,2.226,0
+48,54652.0,193976.0,120,761.0,3.1,2,1.0,Graduate,No,Rural,Single,0.355,0
+56,73702.0,156074.0,120,620.0,1.4,1,0.0,Graduate,No,Urban,Single,0.212,0
+46,74266.0,21194.0,84,648.0,4.9,2,2.0,Graduate,No,Urban,Married,0.041,1
+28,62836.0,232549.0,84,605.0,1.8,1,0.0,Graduate,No,Urban,Married,0.529,1
+48,56071.0,257664.0,36,496.0,17.2,1,4.0,Graduate,,Semiurban,Single,1.532,0
+48,66258.0,208980.0,24,580.0,6.1,1,3.0,Graduate,No,Urban,Single,1.577,0
+57,36183.0,62671.0,180,839.0,0.7,1,1.0,Graduate,Yes,Semiurban,Married,0.115,1
+56,92114.0,99054.0,12,551.0,2.7,1,0.0,Not Graduate,No,Urban,Married,1.075,0
+47,91827.0,20000.0,120,507.0,2.4,3,0.0,Graduate,No,Urban,Married,0.022,0
+37,64434.0,277684.0,120,663.0,3.8,2,0.0,Graduate,Yes,Urban,Married,0.431,0
+29,59341.0,121461.0,36,642.0,9.2,2,0.0,Not Graduate,No,Urban,Married,0.682,0
+53,45949.0,336663.0,24,621.0,4.4,0,1.0,Graduate,No,Urban,Single,3.0,0
+40,66632.0,306418.0,24,651.0,0.3,1,4.0,Graduate,Yes,Semiurban,Single,2.299,0
+33,39791.0,77726.0,360,708.0,5.3,3,1.0,Graduate,No,Semiurban,Married,0.065,0
+48,15000.0,93339.0,84,597.0,0.0,0,2.0,Graduate,No,Urban,Married,0.889,0
+49,15000.0,187295.0,180,667.0,7.6,2,2.0,Graduate,No,Semiurban,Single,0.832,0
+33,37411.0,20000.0,84,742.0,5.5,2,3.0,Graduate,No,Rural,Married,0.076,1
+55,58440.0,114939.0,180,560.0,,1,0.0,Not Graduate,No,Semiurban,Married,0.131,1
+26,62303.0,106947.0,60,441.0,1.7,1,1.0,Graduate,No,Rural,Married,0.343,0
+38,44291.0,298093.0,240,710.0,8.0,1,,Graduate,No,Urban,Married,0.337,1
+25,58120.0,162881.0,180,875.0,7.6,1,3.0,Not Graduate,Yes,Urban,Married,0.187,1
+45,48967.0,127219.0,84,649.0,2.2,2,3.0,Graduate,No,Semiurban,Married,0.371,0
+22,33015.0,99481.0,120,668.0,,2,2.0,Graduate,No,Semiurban,Single,0.301,1
+30,53818.0,221524.0,84,623.0,4.1,0,0.0,Not Graduate,No,Semiurban,Single,0.588,1
+50,72885.0,110263.0,180,793.0,0.0,1,1.0,Graduate,No,Urban,Married,0.101,1
+25,34011.0,145977.0,24,643.0,0.4,0,0.0,Not Graduate,No,Semiurban,Married,2.146,0
+53,34021.0,98870.0,84,633.0,,0,2.0,Graduate,Yes,Rural,Single,0.415,0
+21,31476.0,28597.0,36,732.0,1.0,2,1.0,Not Graduate,No,Urban,Single,0.303,1
+38,15000.0,70317.0,360,606.0,3.6,2,2.0,Graduate,No,Rural,Married,0.156,1
+52,44436.0,109842.0,120,534.0,24.3,0,4.0,Graduate,No,Urban,Married,0.247,1
+31,70710.0,128940.0,36,729.0,5.3,2,2.0,Graduate,No,Urban,Single,0.608,1
+41,58826.0,132446.0,180,597.0,0.3,2,0.0,Not Graduate,Yes,Semiurban,Married,0.15,0
+46,51276.0,142886.0,60,562.0,3.7,2,0.0,Not Graduate,No,Semiurban,Married,0.557,1
+45,57839.0,110905.0,36,839.0,3.4,1,3.0,Graduate,No,Semiurban,Married,0.639,0
+42,44242.0,257930.0,240,634.0,0.8,1,0.0,Not Graduate,No,Semiurban,Married,0.291,0
+47,15000.0,225839.0,60,694.0,12.6,1,0.0,Graduate,No,Semiurban,Married,3.0,0
+33,72242.0,139191.0,12,653.0,2.9,1,0.0,Graduate,No,Urban,Married,1.927,0
+53,78565.0,170341.0,120,570.0,26.1,0,1.0,Graduate,No,Urban,Married,0.217,1
+54,38981.0,120233.0,12,712.0,2.7,0,0.0,Graduate,No,Urban,Married,3.0,0
+55,51682.0,20000.0,84,678.0,4.7,1,4.0,Not Graduate,No,Rural,Married,0.055,0
+21,49786.0,151639.0,180,591.0,0.6,1,4.0,Graduate,No,Urban,Married,0.203,0
+41,62728.0,174449.0,120,689.0,3.0,0,4.0,Not Graduate,No,Rural,Single,0.278,1
+26,92178.0,20987.0,24,604.0,1.4,0,0.0,Graduate,Yes,Urban,Married,0.114,0
+48,80515.0,189953.0,60,551.0,9.0,0,4.0,Graduate,Yes,Urban,Married,0.472,0
+37,46708.0,127554.0,24,541.0,7.7,1,4.0,Graduate,No,Urban,Married,1.365,0
+25,66934.0,177035.0,12,674.0,8.7,3,4.0,Not Graduate,No,Urban,Single,2.645,0
+51,82596.0,129968.0,36,616.0,6.4,0,2.0,Graduate,No,Rural,Married,0.525,1
+25,63984.0,250076.0,36,785.0,8.9,2,2.0,Graduate,No,Semiurban,Married,1.303,0
+58,54897.0,168098.0,180,646.0,1.1,0,0.0,Graduate,No,Rural,Married,0.204,1
+23,64812.0,230193.0,12,579.0,3.0,0,3.0,Graduate,,Rural,Married,3.0,0
+43,39528.0,236778.0,360,664.0,5.9,1,0.0,Graduate,No,Semiurban,Single,0.2,1
+57,42740.0,60436.0,120,534.0,5.1,1,0.0,Graduate,No,Semiurban,Single,0.141,0
+57,31591.0,90879.0,60,642.0,6.3,2,4.0,Not Graduate,No,Semiurban,Single,0.575,0
+30,61755.0,186129.0,36,679.0,1.3,3,1.0,Graduate,Yes,Semiurban,Married,1.005,0
+30,52109.0,120757.0,36,668.0,0.5,1,0.0,Graduate,No,Urban,Married,0.772,0
+39,36891.0,130911.0,24,767.0,12.4,2,4.0,Not Graduate,No,Semiurban,Single,1.774,0
+37,51388.0,252925.0,24,884.0,4.1,0,4.0,Graduate,No,Semiurban,Married,2.461,0
+41,65340.0,125171.0,84,710.0,0.8,0,0.0,Not Graduate,No,Urban,Single,0.274,1
+34,97124.0,72486.0,360,756.0,7.9,1,3.0,Graduate,Yes,Semiurban,Married,0.025,1
+29,77265.0,83296.0,24,879.0,12.3,0,1.0,Graduate,No,Rural,Married,0.539,1
+21,15000.0,324589.0,24,559.0,0.9,2,1.0,Graduate,No,Semiurban,Married,3.0,0
+33,60265.0,135742.0,120,662.0,8.5,1,0.0,Not Graduate,No,Semiurban,Married,0.225,1
+24,86445.0,40860.0,24,607.0,13.5,0,0.0,Not Graduate,No,Urban,Married,0.236,1
+21,25567.0,20000.0,60,726.0,13.9,2,0.0,Graduate,No,Rural,Married,0.156,1
+52,67134.0,100029.0,120,674.0,12.3,3,0.0,Graduate,No,Urban,Married,0.149,0
+54,49794.0,134278.0,84,576.0,4.0,1,3.0,Graduate,No,Rural,Married,0.385,0
+48,80306.0,225934.0,12,651.0,2.2,2,2.0,Graduate,No,Rural,Married,2.813,0
+51,63894.0,218188.0,120,744.0,0.0,2,,Graduate,No,Rural,Married,0.341,0
+28,35552.0,149492.0,12,533.0,0.3,0,2.0,Graduate,No,Urban,Married,3.0,0
+59,50581.0,113667.0,36,578.0,2.8,3,0.0,Graduate,No,Urban,Married,0.749,0
+46,51883.0,177168.0,84,565.0,2.5,1,4.0,Graduate,No,Rural,Married,0.488,0
+54,52290.0,20000.0,84,679.0,1.0,4,3.0,Not Graduate,No,Rural,Married,0.055,0
+23,79624.0,308486.0,120,762.0,2.5,1,0.0,Graduate,No,Rural,Single,0.387,1
+32,36462.0,202328.0,240,469.0,1.0,1,0.0,Graduate,Yes,Semiurban,Married,0.277,1
+21,77067.0,219359.0,84,658.0,9.4,1,2.0,Graduate,Yes,Semiurban,Single,0.407,1
+25,48351.0,64068.0,12,567.0,1.8,0,2.0,Graduate,No,Urban,Single,1.325,0
+50,59917.0,252612.0,84,740.0,4.6,0,3.0,Not Graduate,No,Rural,Single,0.602,0
+50,56592.0,113199.0,36,629.0,3.5,0,0.0,Graduate,No,Rural,Married,0.667,0
+37,54520.0,73795.0,60,662.0,0.3,1,0.0,Graduate,Yes,Urban,Married,0.271,0
+43,54701.0,146866.0,240,650.0,14.3,0,1.0,Graduate,No,Urban,Single,0.134,0
+35,87062.0,144996.0,180,751.0,3.7,0,2.0,Not Graduate,Yes,Semiurban,Single,0.111,1
+57,73534.0,63717.0,84,834.0,,2,0.0,Graduate,No,Semiurban,Single,0.124,1
+41,47020.0,78405.0,24,548.0,0.9,1,1.0,Graduate,No,Urban,Married,0.834,0
+34,89821.0,72141.0,120,564.0,2.1,0,1.0,Graduate,No,Urban,Married,0.08,0
+22,61043.0,72903.0,120,679.0,0.1,1,2.0,Graduate,Yes,Urban,Single,0.119,1
+31,62868.0,118952.0,120,577.0,2.3,1,0.0,Graduate,Yes,Urban,Single,0.189,0
+59,36579.0,38881.0,360,734.0,3.8,1,1.0,Graduate,No,Rural,Married,0.035,0
+58,44055.0,94690.0,240,748.0,10.3,2,3.0,Not Graduate,Yes,Semiurban,Married,0.107,1
+54,39853.0,233611.0,240,601.0,5.8,1,4.0,Not Graduate,No,Semiurban,Married,0.293,0
+58,56894.0,215865.0,12,581.0,0.6,1,0.0,Graduate,No,Rural,Married,3.0,0
+54,69053.0,66010.0,84,625.0,0.8,0,0.0,Graduate,Yes,Urban,Single,0.137,1
+38,63079.0,226656.0,180,659.0,2.8,1,4.0,Graduate,No,Rural,Single,0.24,0
+50,89937.0,20000.0,120,678.0,1.1,1,1.0,Graduate,No,Rural,Single,0.022,0
+35,35469.0,344332.0,84,447.0,0.1,1,2.0,Graduate,No,Semiurban,Married,1.387,0
+47,57527.0,254025.0,240,563.0,8.2,1,2.0,Graduate,No,Semiurban,Single,0.221,1
+54,26775.0,105221.0,36,614.0,0.1,0,0.0,Graduate,Yes,Semiurban,Married,1.31,0
+58,34719.0,180594.0,120,578.0,8.9,0,2.0,Graduate,No,Rural,Single,0.52,0
+53,82821.0,37926.0,84,392.0,0.8,0,2.0,Graduate,Yes,Urban,Single,0.065,1
+44,44810.0,154835.0,240,480.0,18.4,0,1.0,Graduate,No,Urban,Married,0.173,0
+35,37326.0,135307.0,60,533.0,4.6,0,0.0,Graduate,No,Rural,Married,0.725,0
+50,15000.0,83219.0,240,640.0,6.6,2,4.0,Not Graduate,,Rural,Married,0.277,0
+37,37106.0,112515.0,24,611.0,0.6,0,1.0,Graduate,No,Semiurban,Married,1.516,0
+25,50484.0,104641.0,360,593.0,9.9,0,2.0,Not Graduate,No,Urban,Single,0.069,1
+49,25137.0,59461.0,360,722.0,9.1,3,3.0,Graduate,No,Urban,Married,0.079,1
+24,49219.0,81348.0,120,722.0,5.3,1,1.0,Not Graduate,Yes,Semiurban,Married,0.165,1
+30,82954.0,34652.0,60,663.0,3.5,0,2.0,Graduate,No,Rural,Married,0.084,1
+37,39439.0,218586.0,60,661.0,6.4,1,4.0,Not Graduate,No,Urban,Single,1.108,0
+30,34246.0,75431.0,120,573.0,0.0,2,1.0,Graduate,Yes,Semiurban,Married,0.22,0
+37,30274.0,52238.0,84,584.0,4.5,0,1.0,Graduate,No,Rural,Married,0.247,0
+40,29881.0,217320.0,120,496.0,,1,3.0,Graduate,,Urban,Single,0.727,0
+44,66783.0,179570.0,180,627.0,2.2,3,0.0,Graduate,No,Rural,Married,0.179,0
+25,56071.0,214360.0,180,721.0,0.6,1,0.0,Graduate,No,Semiurban,Married,0.255,1
+54,76051.0,223287.0,360,772.0,2.7,0,3.0,Graduate,No,Rural,Single,0.098,1
+26,99436.0,304996.0,240,628.0,6.5,2,3.0,Graduate,No,Rural,Married,0.153,0
+22,15000.0,137517.0,120,694.0,0.6,0,,Graduate,No,Semiurban,Single,0.917,0
+33,63362.0,33391.0,120,393.0,1.2,0,0.0,Graduate,No,Rural,Married,0.053,0
+31,30390.0,171683.0,84,611.0,0.8,1,0.0,Graduate,No,Rural,Married,0.807,0
+43,72356.0,96480.0,12,609.0,,0,0.0,Graduate,No,Rural,Married,1.333,1
+36,49018.0,73400.0,360,784.0,0.3,0,2.0,Not Graduate,No,Semiurban,Single,0.05,1
+51,55601.0,157994.0,360,685.0,5.8,2,2.0,Not Graduate,No,Semiurban,Married,0.095,1
+31,26770.0,219260.0,360,694.0,2.3,1,1.0,Not Graduate,No,Urban,Married,0.273,0
+36,45619.0,83120.0,240,690.0,7.0,2,0.0,Not Graduate,No,Urban,Married,0.091,0
+28,56973.0,251951.0,36,654.0,16.7,0,2.0,Graduate,Yes,Semiurban,Married,1.474,0
+24,84834.0,70831.0,12,788.0,0.6,1,1.0,Not Graduate,Yes,Urban,Single,0.835,1
+24,37520.0,130488.0,240,443.0,1.9,1,0.0,Graduate,No,Semiurban,Single,0.174,0
+45,42885.0,180905.0,180,663.0,8.3,0,3.0,Graduate,No,Semiurban,Single,0.281,0
+23,75774.0,118968.0,84,752.0,1.5,2,0.0,Not Graduate,No,Rural,Married,0.224,1
+52,36095.0,20000.0,180,480.0,1.2,0,2.0,Graduate,No,Rural,Married,0.037,0
+23,80132.0,224193.0,60,725.0,8.7,1,3.0,Graduate,No,Urban,Single,0.56,1
+47,54800.0,100123.0,360,581.0,21.7,2,1.0,Graduate,No,Semiurban,Single,0.061,0
+49,61669.0,209592.0,24,660.0,4.1,1,0.0,Graduate,No,Rural,Married,1.699,0
+52,63085.0,48868.0,360,580.0,1.6,1,0.0,Graduate,No,Urban,Married,0.026,1
+39,41443.0,62525.0,360,736.0,2.5,0,3.0,Graduate,No,Urban,Married,0.05,1
+41,63578.0,218995.0,84,624.0,0.9,0,0.0,Graduate,No,Rural,Married,0.492,1
+25,38008.0,177241.0,12,726.0,7.2,2,2.0,Graduate,No,Urban,Married,3.0,0
+38,43954.0,114913.0,180,689.0,7.4,3,4.0,Graduate,No,Rural,Single,0.174,0
+48,67291.0,178403.0,60,579.0,10.4,0,4.0,Graduate,No,Rural,Married,0.53,1
+42,61455.0,73677.0,360,695.0,0.1,2,1.0,Not Graduate,No,Semiurban,Married,0.04,0
+41,53351.0,158821.0,120,590.0,4.1,1,3.0,Graduate,No,Rural,Married,0.298,1
+26,27308.0,160284.0,36,656.0,1.2,0,4.0,Not Graduate,No,Urban,Single,1.956,0
+21,32799.0,120097.0,120,622.0,2.1,2,1.0,Graduate,No,Rural,Married,0.366,0
+25,61088.0,83177.0,120,731.0,7.7,0,0.0,Graduate,No,Rural,Married,0.136,1
+32,71107.0,155620.0,84,699.0,1.1,1,0.0,Graduate,No,Urban,Married,0.313,1
+46,30588.0,145602.0,24,647.0,5.1,0,0.0,Graduate,No,Semiurban,Married,2.38,0
+54,36524.0,112734.0,24,588.0,5.3,2,3.0,Graduate,No,Semiurban,Single,1.543,0
+34,57952.0,67295.0,180,536.0,15.4,3,1.0,Graduate,Yes,Urban,Married,0.077,0
+46,57481.0,150998.0,24,662.0,7.5,2,3.0,Graduate,No,Rural,Married,1.313,0
+47,19273.0,112934.0,120,593.0,8.1,0,2.0,Graduate,No,Semiurban,Married,0.586,1
+29,58554.0,67227.0,84,481.0,3.8,1,2.0,Graduate,Yes,Semiurban,Married,0.164,1
+46,41836.0,153482.0,60,530.0,1.0,0,2.0,Not Graduate,No,Urban,Married,0.734,0
+42,91103.0,278664.0,180,796.0,2.8,3,0.0,Graduate,No,Semiurban,Single,0.204,1
+50,60482.0,120654.0,240,591.0,4.0,0,3.0,Graduate,No,Rural,Married,0.1,0
+37,64272.0,269822.0,60,747.0,5.7,1,1.0,Not Graduate,No,Semiurban,Single,0.84,0
+46,64842.0,319147.0,12,618.0,,1,1.0,Graduate,No,Rural,Married,3.0,0
+56,28294.0,73726.0,12,762.0,2.5,2,0.0,Not Graduate,No,Semiurban,Single,2.606,0
+21,97765.0,150724.0,12,755.0,1.5,1,4.0,Not Graduate,Yes,Urban,Married,1.542,0
+28,19296.0,318299.0,12,576.0,0.9,0,3.0,Graduate,No,Semiurban,Married,3.0,0
+55,72505.0,140314.0,84,471.0,5.9,1,1.0,Graduate,No,Urban,Married,0.276,0
+35,68611.0,152945.0,60,479.0,5.2,1,1.0,Graduate,No,Urban,Married,0.446,0
+42,44506.0,20000.0,360,577.0,5.8,0,2.0,Graduate,Yes,Urban,Married,0.015,1
+34,69662.0,107467.0,36,820.0,2.3,0,0.0,Graduate,No,Rural,Single,0.514,0
+46,48013.0,194447.0,180,613.0,1.5,2,0.0,Not Graduate,No,Rural,Single,0.27,0
+48,40140.0,344343.0,240,663.0,7.1,0,,Not Graduate,No,Urban,Married,0.429,0
+43,65330.0,134319.0,120,767.0,7.4,4,0.0,Graduate,No,Urban,Married,0.206,1
+34,32856.0,20000.0,12,660.0,3.0,0,1.0,Graduate,Yes,Urban,Married,0.609,1
+44,50066.0,37580.0,240,657.0,4.7,0,1.0,Not Graduate,No,Rural,Single,0.038,1
+22,41928.0,147137.0,36,706.0,2.3,0,1.0,Graduate,No,Semiurban,Married,1.17,0
+46,47608.0,244177.0,240,676.0,6.1,3,0.0,Graduate,No,Semiurban,Married,0.256,1
+34,64520.0,200988.0,60,641.0,9.0,3,1.0,Graduate,No,Semiurban,Single,0.623,0
+27,41924.0,186820.0,240,585.0,5.8,1,0.0,Graduate,No,Semiurban,Married,0.223,1
+23,50769.0,254732.0,12,657.0,3.6,2,1.0,Graduate,Yes,Urban,Single,3.0,0
+43,43931.0,92382.0,36,748.0,3.1,1,2.0,Graduate,No,Urban,Married,0.701,1
+38,86768.0,151528.0,120,810.0,5.1,1,4.0,Graduate,No,Urban,Single,0.175,1
+58,62537.0,108369.0,360,676.0,5.7,2,0.0,Graduate,No,Semiurban,Married,0.058,1
+55,59842.0,128284.0,24,718.0,4.1,1,3.0,Graduate,No,Rural,Married,1.072,0
+35,70035.0,69498.0,12,674.0,4.9,0,0.0,Graduate,No,Urban,Single,0.992,1
+45,41929.0,122482.0,36,642.0,0.5,4,1.0,Not Graduate,No,Urban,Married,0.974,0
+57,73904.0,147783.0,60,696.0,15.2,2,1.0,Graduate,No,Rural,Married,0.4,1
+48,62616.0,120282.0,84,757.0,7.8,0,1.0,Graduate,Yes,Urban,Married,0.274,0
+30,20660.0,137115.0,36,570.0,2.3,2,2.0,Graduate,No,Urban,Married,2.212,0
+59,23583.0,182403.0,24,519.0,4.1,1,1.0,Graduate,No,Rural,Single,3.0,0
+37,42409.0,249096.0,24,602.0,0.2,2,0.0,Not Graduate,No,Semiurban,Married,2.937,0
+59,25938.0,254892.0,180,669.0,0.2,0,3.0,Graduate,Yes,Semiurban,Single,0.655,1
+42,49758.0,210914.0,360,728.0,1.4,0,0.0,Graduate,No,Rural,Married,0.141,1
+46,32698.0,49201.0,24,561.0,5.9,2,,Not Graduate,No,Rural,Married,0.752,0
+45,52850.0,121167.0,180,426.0,9.6,0,0.0,Graduate,No,Urban,Single,0.153,0
+37,86058.0,128057.0,180,604.0,4.1,1,0.0,Graduate,No,Semiurban,Married,0.099,1
+33,53914.0,97428.0,180,633.0,3.8,0,1.0,Graduate,No,Semiurban,Single,0.12,1
+40,48335.0,177388.0,36,545.0,2.6,2,1.0,Not Graduate,No,Rural,Married,1.223,0
+45,63541.0,22454.0,180,582.0,0.9,1,0.0,Graduate,No,Rural,Married,0.024,1
+24,39679.0,285485.0,12,728.0,0.6,0,0.0,Not Graduate,No,Urban,Married,3.0,0
+30,73555.0,245618.0,12,657.0,7.1,0,2.0,Graduate,No,Semiurban,Married,3.0,0
+23,65895.0,188256.0,84,681.0,13.1,1,2.0,Graduate,No,Urban,Married,0.408,1
+38,55855.0,145031.0,24,618.0,3.1,1,4.0,Not Graduate,No,Urban,Married,1.298,0
+56,58395.0,248307.0,360,582.0,5.4,0,3.0,Graduate,,Semiurban,Single,0.142,1
+42,99918.0,205152.0,180,617.0,12.3,0,3.0,Not Graduate,No,Semiurban,Married,0.137,0
+54,75731.0,238531.0,60,695.0,0.5,3,,Not Graduate,No,Semiurban,Married,0.63,0
+28,103390.0,145276.0,60,516.0,7.4,0,2.0,Not Graduate,No,Semiurban,Married,0.281,0
+39,66705.0,293145.0,24,799.0,,1,0.0,Graduate,No,Rural,Married,2.197,0
+57,22623.0,243351.0,84,702.0,4.6,1,2.0,Graduate,No,Rural,Married,1.537,0
+26,49232.0,190763.0,60,602.0,1.7,0,0.0,Not Graduate,No,Semiurban,Married,0.775,1
+46,17595.0,250478.0,12,723.0,5.8,1,3.0,Graduate,Yes,Urban,Married,3.0,0
+54,66623.0,116467.0,240,760.0,7.9,2,1.0,Graduate,No,Rural,Married,0.087,0
+26,71399.0,56600.0,36,620.0,0.6,0,2.0,Graduate,No,Rural,Married,0.264,0
+57,35510.0,175724.0,120,631.0,3.8,2,0.0,Graduate,No,Urban,Single,0.495,0
+53,40576.0,145433.0,60,784.0,0.5,0,,Graduate,No,Semiurban,Single,0.717,1
+42,58273.0,134183.0,360,841.0,10.3,1,0.0,Graduate,Yes,Rural,Married,0.077,1
+41,28642.0,247305.0,180,653.0,3.5,3,0.0,Graduate,No,Semiurban,Single,0.576,1
+26,26990.0,163371.0,360,546.0,8.3,1,1.0,Graduate,No,Semiurban,Married,0.202,0
+26,82250.0,171086.0,36,608.0,2.3,2,0.0,Graduate,No,Urban,Married,0.693,1
+24,57524.0,123836.0,12,743.0,0.7,2,1.0,Not Graduate,No,Semiurban,Single,2.153,0
+50,42722.0,220490.0,84,557.0,0.2,1,1.0,Graduate,No,Semiurban,Married,0.737,0
+31,17773.0,206150.0,36,631.0,1.7,2,3.0,Graduate,No,Urban,Single,3.0,0
+50,73752.0,219893.0,120,676.0,1.4,2,1.0,Graduate,No,Semiurban,Single,0.298,1
+51,39941.0,110219.0,240,567.0,4.1,0,1.0,Graduate,Yes,Urban,Married,0.138,0
+44,95935.0,254327.0,60,749.0,0.1,0,4.0,Graduate,No,Semiurban,Single,0.53,1
+29,73905.0,297101.0,84,712.0,3.7,1,1.0,Not Graduate,No,Rural,Single,0.574,0
+23,37221.0,217363.0,84,831.0,2.5,1,1.0,Not Graduate,No,Semiurban,Married,0.834,0
+51,39260.0,85257.0,60,720.0,4.3,0,1.0,Not Graduate,Yes,Semiurban,Single,0.434,0
+57,92881.0,85824.0,60,564.0,6.1,2,3.0,Graduate,Yes,Semiurban,Married,0.185,1
+56,53146.0,119970.0,60,698.0,5.0,1,0.0,Graduate,No,Urban,Single,0.451,0
+44,43707.0,104850.0,60,739.0,20.9,0,1.0,Graduate,No,Rural,Married,0.48,1
+51,55610.0,144313.0,60,744.0,0.7,1,2.0,Graduate,No,Urban,Married,0.519,0
+26,43606.0,200595.0,84,580.0,2.8,3,0.0,Graduate,No,Urban,Married,0.657,0
+22,60303.0,173196.0,24,569.0,2.8,0,3.0,Graduate,No,Semiurban,Married,1.436,0
+40,53332.0,166183.0,24,547.0,2.7,1,1.0,Graduate,No,Semiurban,Single,1.558,0
+48,74261.0,130704.0,360,794.0,5.5,0,1.0,Graduate,No,Urban,Married,0.059,1
+31,46451.0,144092.0,24,706.0,3.4,0,2.0,Graduate,No,Urban,Married,1.551,0
+24,35534.0,213726.0,120,576.0,3.6,3,0.0,Graduate,No,Rural,Married,0.601,0
+35,47322.0,20000.0,24,661.0,2.8,1,3.0,Not Graduate,No,Urban,Married,0.211,0
+26,47188.0,149089.0,84,639.0,24.0,1,4.0,Graduate,No,Urban,Single,0.451,1
+50,53294.0,173039.0,60,562.0,13.1,0,1.0,Graduate,No,Urban,Married,0.649,0
+58,68960.0,212687.0,180,653.0,1.8,0,4.0,Graduate,No,Urban,Married,0.206,1
+22,67758.0,69196.0,180,667.0,0.6,1,0.0,Not Graduate,No,Semiurban,Married,0.068,0
+35,81392.0,64967.0,120,824.0,9.2,1,3.0,Graduate,No,Semiurban,Married,0.08,0
+31,37147.0,196716.0,84,591.0,29.3,0,0.0,Not Graduate,No,Rural,Married,0.757,0
+28,63552.0,20000.0,12,496.0,1.7,1,0.0,Graduate,No,Urban,Single,0.315,0
+46,71001.0,256575.0,36,556.0,2.2,0,0.0,Not Graduate,No,Urban,Single,1.205,0
+25,40167.0,168127.0,360,570.0,14.2,1,0.0,Graduate,No,Urban,Married,0.14,0
+26,50432.0,274698.0,12,612.0,6.2,1,0.0,Graduate,No,Urban,Married,3.0,0
+46,16500.0,63034.0,84,556.0,1.8,2,3.0,Graduate,No,Urban,Married,0.546,0
+24,74951.0,115091.0,24,724.0,4.3,2,3.0,Graduate,No,Urban,Single,0.768,0
+39,50259.0,20000.0,60,550.0,14.4,1,0.0,Not Graduate,No,Urban,Married,0.08,0
+40,72744.0,86345.0,12,652.0,8.4,2,0.0,Graduate,No,Semiurban,Single,1.187,0
+53,59533.0,135292.0,36,830.0,6.8,2,3.0,Graduate,No,Semiurban,Married,0.758,1
+40,50926.0,20000.0,180,700.0,6.7,1,1.0,Not Graduate,No,Urban,Married,0.026,0
+32,19958.0,118430.0,36,691.0,1.0,1,0.0,Graduate,No,Semiurban,Single,1.978,0
+21,23871.0,20000.0,60,817.0,8.7,0,1.0,Not Graduate,No,Urban,Married,0.168,1
+46,15000.0,129403.0,24,762.0,1.6,2,1.0,Graduate,No,Semiurban,Single,3.0,0
+34,42623.0,241769.0,36,701.0,13.3,0,0.0,Not Graduate,No,Urban,Married,1.891,0
+58,105121.0,147202.0,360,622.0,2.3,3,2.0,Graduate,No,Urban,Married,0.047,1
+57,26665.0,282657.0,36,648.0,9.7,2,2.0,Graduate,No,Urban,Married,3.0,0
+31,15000.0,212903.0,84,644.0,1.5,2,0.0,Graduate,No,Urban,Single,2.028,0
+56,76179.0,257852.0,24,614.0,3.6,0,3.0,Graduate,No,Rural,Single,1.692,0
+33,107002.0,88804.0,60,669.0,0.6,1,1.0,Graduate,No,Rural,Married,0.166,1
+23,61554.0,86869.0,180,682.0,5.4,1,0.0,Graduate,No,Urban,Married,0.094,1
+53,61352.0,177649.0,180,538.0,9.0,2,0.0,Not Graduate,No,Semiurban,Married,0.193,0
+26,48183.0,23784.0,36,797.0,6.3,0,0.0,Not Graduate,No,Urban,Married,0.165,1
+30,15526.0,187691.0,84,687.0,3.7,2,1.0,Not Graduate,No,Urban,Married,1.727,0
+25,23084.0,124086.0,12,626.0,0.2,1,0.0,Not Graduate,No,Urban,Married,3.0,0
+43,48031.0,256400.0,12,670.0,13.5,2,1.0,Not Graduate,No,Rural,Married,3.0,0
+30,43814.0,204361.0,84,734.0,6.1,0,0.0,Not Graduate,No,Urban,Married,0.666,1
+22,52466.0,237737.0,360,518.0,6.8,1,2.0,Not Graduate,No,Rural,Married,0.151,0
+33,73245.0,89664.0,12,641.0,7.9,2,2.0,Graduate,,Semiurban,Married,1.224,0
+22,42200.0,233857.0,12,543.0,6.9,2,1.0,Not Graduate,No,Urban,Married,3.0,0
+40,73694.0,265577.0,60,889.0,2.9,1,2.0,Not Graduate,Yes,Rural,Married,0.721,1
+21,42344.0,146903.0,60,662.0,6.6,1,4.0,Graduate,Yes,Rural,Single,0.694,1
+57,77841.0,90852.0,24,544.0,4.9,2,2.0,Graduate,No,Rural,Married,0.584,0
+29,56900.0,92257.0,360,900.0,9.6,0,1.0,Graduate,No,Rural,Married,0.054,1
+37,45412.0,249121.0,360,602.0,8.1,0,1.0,Not Graduate,Yes,Urban,Married,0.183,1
+29,56524.0,364748.0,24,631.0,0.2,1,3.0,Not Graduate,No,Urban,Single,3.0,0
+31,48542.0,71468.0,360,638.0,2.4,0,0.0,Graduate,No,Urban,Married,0.049,0
+35,57489.0,65318.0,120,574.0,0.2,1,0.0,Graduate,No,Semiurban,Single,0.114,0
+44,71678.0,223713.0,240,672.0,0.5,2,1.0,Graduate,No,Rural,Married,0.156,0
+58,53081.0,89687.0,60,451.0,4.6,1,2.0,Graduate,No,Semiurban,Married,0.338,0
+55,46869.0,231468.0,24,748.0,10.4,0,2.0,Graduate,No,Rural,Married,2.469,0
+50,30283.0,187228.0,24,548.0,0.6,1,0.0,Graduate,No,Urban,Married,3.0,0
+51,67742.0,148082.0,360,613.0,3.0,1,0.0,Not Graduate,Yes,Semiurban,Married,0.073,0
+25,62662.0,185302.0,12,718.0,12.1,0,,Graduate,No,Rural,Married,2.957,0
+34,28997.0,180416.0,180,632.0,8.4,3,0.0,Graduate,No,Semiurban,Married,0.415,0
+31,73381.0,135631.0,36,635.0,3.7,2,0.0,Not Graduate,Yes,Semiurban,Married,0.616,0
+29,28640.0,20000.0,36,559.0,7.4,0,1.0,Graduate,No,Semiurban,Married,0.233,1
+54,77643.0,164292.0,24,839.0,3.7,1,3.0,Graduate,No,Semiurban,Married,1.058,1
+32,70133.0,275845.0,120,698.0,0.9,0,2.0,Graduate,No,Rural,Married,0.393,1
+55,64233.0,21299.0,24,553.0,0.7,1,4.0,Graduate,No,Semiurban,Single,0.166,0
+55,46706.0,72737.0,60,666.0,1.0,0,0.0,Not Graduate,No,Urban,Married,0.311,1
+21,67667.0,184146.0,360,546.0,2.2,0,1.0,Not Graduate,No,Semiurban,Married,0.091,0
+42,78680.0,153087.0,360,805.0,13.3,0,0.0,Graduate,No,Urban,Married,0.065,1
+49,68032.0,182895.0,120,668.0,8.0,0,3.0,Graduate,No,Semiurban,Married,0.269,0
+28,40254.0,94055.0,60,562.0,2.8,1,1.0,Graduate,No,Urban,Married,0.467,0
+31,60883.0,242997.0,180,713.0,3.4,0,0.0,Not Graduate,No,Rural,Married,0.266,1
+57,79905.0,153752.0,12,625.0,1.5,3,2.0,Not Graduate,No,Rural,Married,1.924,0
+34,103380.0,205759.0,60,534.0,6.1,1,1.0,Graduate,No,Urban,Single,0.398,0
+50,50485.0,175622.0,84,684.0,8.1,1,1.0,Graduate,No,Urban,Married,0.497,1
+55,73873.0,164040.0,240,682.0,1.4,2,3.0,Not Graduate,No,Semiurban,Married,0.111,1
+41,79959.0,200147.0,24,752.0,0.2,1,0.0,Not Graduate,Yes,Rural,Single,1.252,0
+57,37127.0,164919.0,84,656.0,4.9,0,0.0,Graduate,No,Urban,Married,0.635,1
+25,94206.0,54784.0,120,660.0,4.1,1,0.0,Not Graduate,No,Urban,Single,0.058,1
+39,31566.0,236989.0,84,664.0,2.6,1,0.0,Graduate,Yes,Semiurban,Married,1.073,0
+34,72798.0,215450.0,360,794.0,5.2,1,0.0,Graduate,Yes,Semiurban,Married,0.099,1
+46,61717.0,20000.0,12,622.0,4.0,1,2.0,Graduate,No,Urban,Single,0.324,1
+24,56223.0,97664.0,36,692.0,1.4,1,0.0,Graduate,No,Semiurban,Single,0.579,0
+45,111030.0,233389.0,24,706.0,2.5,2,3.0,Graduate,,Rural,Married,1.051,0
+45,48372.0,20000.0,36,681.0,2.8,0,0.0,Graduate,No,Urban,Married,0.138,1
+38,48018.0,225485.0,360,619.0,10.6,0,0.0,Graduate,No,Semiurban,Married,0.157,1
+28,84293.0,138702.0,360,661.0,16.2,1,0.0,Graduate,Yes,Urban,Married,0.055,1
+59,71760.0,257223.0,24,642.0,11.2,1,2.0,Graduate,No,Urban,Single,1.792,0
+34,83206.0,149908.0,36,826.0,6.4,0,1.0,Graduate,No,Urban,Married,0.601,0
+52,57571.0,92235.0,60,609.0,4.4,0,3.0,Not Graduate,No,Semiurban,Married,0.32,0
+58,61973.0,174647.0,360,568.0,5.8,4,2.0,Graduate,Yes,Rural,Married,0.094,1
+53,96821.0,147569.0,36,649.0,14.0,0,3.0,Graduate,No,Semiurban,Single,0.508,1
+43,36609.0,85132.0,180,643.0,1.4,4,2.0,Not Graduate,No,Urban,Married,0.155,0
+35,52737.0,327467.0,36,668.0,3.8,0,0.0,Graduate,No,Urban,Single,2.07,0
+53,72562.0,72312.0,180,609.0,5.8,1,3.0,Graduate,No,Semiurban,Married,0.066,1
+45,50691.0,20000.0,180,660.0,5.7,1,4.0,Graduate,Yes,Urban,Married,0.026,0
+37,42457.0,276536.0,360,662.0,1.5,0,4.0,Not Graduate,No,Urban,Married,0.217,0
+53,68607.0,103315.0,24,732.0,4.4,1,0.0,Not Graduate,Yes,Semiurban,Married,0.753,1
+22,84388.0,126258.0,120,658.0,7.9,2,2.0,Graduate,No,Rural,Married,0.15,1
+34,51902.0,121368.0,360,659.0,3.2,1,0.0,Graduate,No,Urban,Single,0.078,0
+59,51291.0,104428.0,24,696.0,7.9,1,0.0,Graduate,No,Semiurban,Married,1.018,1
+26,40751.0,88705.0,24,728.0,2.2,1,,Not Graduate,Yes,Urban,Married,1.088,0
+26,48489.0,70255.0,84,561.0,14.0,0,,Graduate,No,Semiurban,Married,0.207,1
+23,78839.0,155181.0,240,537.0,3.8,0,1.0,Not Graduate,No,Semiurban,Married,0.098,0
+27,56783.0,117841.0,360,803.0,4.5,1,3.0,Graduate,No,Rural,Married,0.069,1
+28,37290.0,208429.0,24,713.0,0.2,4,0.0,Graduate,Yes,Semiurban,Single,2.795,0
+35,60772.0,188616.0,84,630.0,0.9,3,0.0,Not Graduate,No,Urban,Married,0.443,1
+49,78126.0,75799.0,180,652.0,5.0,0,1.0,Not Graduate,No,Urban,Married,0.065,1
+53,42639.0,158682.0,120,615.0,2.7,1,1.0,Graduate,No,Urban,Married,0.372,1
+50,25771.0,116573.0,120,669.0,3.5,1,3.0,Graduate,No,Semiurban,Married,0.452,0
+59,103198.0,70667.0,180,563.0,0.3,0,0.0,Graduate,No,Rural,Single,0.046,1
+47,24672.0,205155.0,36,726.0,9.0,1,1.0,Graduate,Yes,Semiurban,Married,2.772,0
+56,47102.0,140294.0,36,666.0,7.7,2,1.0,Graduate,No,Semiurban,Married,0.993,0
+49,60107.0,117396.0,360,669.0,1.0,0,0.0,Graduate,No,Urban,Single,0.065,1
+58,49007.0,81555.0,240,570.0,5.0,0,3.0,Graduate,No,Semiurban,Married,0.083,1
+53,53352.0,67765.0,84,697.0,8.5,2,1.0,Graduate,No,Urban,Single,0.181,1
+57,67690.0,309101.0,120,572.0,5.1,3,1.0,Graduate,No,Urban,Married,0.457,0
+47,15000.0,176729.0,12,588.0,1.9,0,3.0,Graduate,No,Semiurban,Married,3.0,0
+53,27128.0,62710.0,12,658.0,5.3,0,0.0,Graduate,No,Rural,Single,2.312,0
+24,55974.0,173029.0,60,876.0,1.2,2,3.0,Not Graduate,No,Semiurban,Married,0.618,0
+42,46107.0,234961.0,24,665.0,1.9,0,0.0,Graduate,No,Semiurban,Single,2.548,0
+22,57847.0,163401.0,180,419.0,1.4,3,0.0,Graduate,No,Rural,Married,0.188,0
+30,60008.0,259922.0,24,592.0,4.1,1,4.0,Graduate,No,Urban,Married,2.166,0
+25,15000.0,26575.0,24,712.0,0.6,0,3.0,Graduate,No,Rural,Married,0.886,0
+30,83020.0,20000.0,84,548.0,13.5,1,1.0,Graduate,Yes,Urban,Married,0.034,0
+53,44038.0,170841.0,60,725.0,2.0,0,2.0,Graduate,No,Urban,Married,0.776,0
+58,35959.0,172120.0,240,664.0,1.2,1,4.0,Graduate,No,Urban,Single,0.239,1
+33,59584.0,20000.0,60,739.0,3.4,1,0.0,Not Graduate,No,Urban,Single,0.067,1
+51,57358.0,100114.0,120,600.0,1.6,1,0.0,Not Graduate,No,Semiurban,Married,0.175,0
+56,81327.0,69307.0,84,593.0,3.8,1,1.0,Graduate,Yes,Rural,Single,0.122,0
+44,60981.0,38644.0,24,701.0,,1,0.0,Graduate,Yes,Urban,Single,0.317,1
+35,80478.0,69117.0,240,649.0,0.7,0,0.0,Graduate,No,Urban,Married,0.043,1
+49,34360.0,197663.0,24,644.0,,0,3.0,Graduate,Yes,Urban,Married,2.876,0
+28,58121.0,68608.0,360,791.0,2.9,2,0.0,Graduate,No,Semiurban,Married,0.039,0
+25,30476.0,71350.0,360,704.0,0.2,0,3.0,Graduate,No,Urban,Single,0.078,1
+49,57149.0,20496.0,36,471.0,7.4,0,1.0,Graduate,No,Semiurban,Single,0.12,0
+24,52486.0,251513.0,60,722.0,4.9,0,1.0,Not Graduate,No,Rural,Single,0.958,0
+32,51539.0,184771.0,240,713.0,4.6,2,2.0,Graduate,No,Semiurban,Single,0.179,1
+22,51732.0,20000.0,360,757.0,3.9,3,1.0,Graduate,No,Rural,Married,0.013,1
+47,71201.0,71421.0,36,565.0,4.5,1,0.0,Not Graduate,No,Urban,Married,0.334,0
+51,19638.0,192281.0,84,679.0,13.6,0,0.0,Graduate,Yes,Rural,Married,1.399,0
+56,35205.0,252511.0,240,660.0,0.0,0,2.0,Graduate,No,Urban,Married,0.359,0
+56,54107.0,217267.0,36,564.0,0.2,0,0.0,Graduate,No,Urban,Married,1.339,0
+46,29069.0,121545.0,180,735.0,1.1,0,0.0,Graduate,No,Rural,Single,0.279,0
+47,56015.0,20000.0,240,628.0,0.9,1,4.0,Graduate,Yes,Semiurban,Married,0.018,1
+25,53881.0,219620.0,36,754.0,1.0,1,4.0,Graduate,No,Rural,Married,1.359,0
+40,24117.0,126248.0,24,583.0,5.6,1,1.0,Graduate,Yes,Urban,Single,2.617,0
+31,23030.0,155509.0,180,519.0,3.1,2,0.0,Graduate,No,Rural,Married,0.45,0
+30,15000.0,135806.0,360,628.0,24.0,2,2.0,Not Graduate,Yes,Urban,Married,0.302,1
+58,28145.0,41558.0,12,671.0,1.3,0,3.0,Graduate,No,Urban,Married,1.477,1
+26,55315.0,179140.0,36,602.0,1.9,1,0.0,Graduate,Yes,Urban,Married,1.08,0
+28,58436.0,168117.0,84,374.0,20.8,2,,Not Graduate,No,Rural,Single,0.411,0
+43,59442.0,115937.0,36,685.0,8.9,0,3.0,Graduate,No,Semiurban,Married,0.65,1
+46,37886.0,187688.0,12,684.0,3.2,1,3.0,Graduate,No,Semiurban,Single,3.0,0
+32,54597.0,40080.0,180,712.0,4.0,3,2.0,Graduate,No,Urban,Married,0.049,0
+46,63739.0,128480.0,180,616.0,9.3,3,0.0,Graduate,No,Urban,Married,0.134,0
+33,27103.0,152090.0,240,611.0,3.3,2,1.0,Graduate,No,Urban,Married,0.281,0
+38,57713.0,20000.0,84,780.0,1.2,1,2.0,Graduate,No,Semiurban,Married,0.05,1
+45,69443.0,145432.0,84,508.0,8.8,0,0.0,Not Graduate,No,Semiurban,Married,0.299,1
+53,44203.0,208692.0,84,628.0,3.9,1,0.0,Graduate,No,Semiurban,Married,0.674,0
+32,78369.0,125742.0,12,663.0,0.8,2,0.0,Graduate,Yes,Rural,Married,1.604,0
+56,44716.0,147271.0,84,705.0,3.5,1,1.0,Graduate,No,Urban,Married,0.47,0
+24,36079.0,194988.0,120,665.0,2.7,3,1.0,Graduate,No,Urban,Married,0.54,1
+25,67251.0,118976.0,12,567.0,10.5,0,3.0,Graduate,Yes,Semiurban,Married,1.769,0
+57,99732.0,126176.0,180,755.0,0.7,2,2.0,Graduate,No,Semiurban,Married,0.084,1
+28,56878.0,55864.0,12,650.0,10.4,3,3.0,Graduate,No,Semiurban,Married,0.982,0
+48,68968.0,148805.0,24,500.0,3.6,4,3.0,Graduate,No,Rural,Single,1.079,0
+51,43808.0,123212.0,24,669.0,2.6,2,,Not Graduate,No,Semiurban,Single,1.406,0
+29,27684.0,189927.0,84,693.0,0.9,0,0.0,Not Graduate,No,Urban,Single,0.98,0
+49,58658.0,195077.0,180,826.0,6.0,1,1.0,Graduate,No,Urban,Single,0.222,0
+34,62137.0,213297.0,12,687.0,13.1,0,,Not Graduate,No,Rural,Married,3.0,0
+42,47126.0,109339.0,12,517.0,2.4,0,3.0,Graduate,Yes,Semiurban,Married,2.32,0
+31,68883.0,20000.0,12,520.0,1.4,1,0.0,Not Graduate,No,Urban,Single,0.29,0
+43,40610.0,209331.0,120,763.0,4.0,0,0.0,Graduate,Yes,Urban,Married,0.515,1
+21,35154.0,184490.0,24,578.0,8.0,3,1.0,Graduate,No,Semiurban,Married,2.624,0
+57,78334.0,99177.0,12,511.0,0.0,3,1.0,Not Graduate,No,Semiurban,Single,1.266,0
+41,78438.0,194395.0,120,740.0,5.0,2,2.0,Graduate,No,Urban,Married,0.248,1
+46,41044.0,34113.0,24,607.0,4.5,2,1.0,Not Graduate,No,Semiurban,Married,0.416,0
+56,92815.0,232419.0,120,735.0,1.9,1,0.0,Graduate,No,Urban,Married,0.25,0
+43,48684.0,123310.0,240,568.0,3.0,3,0.0,Graduate,No,Rural,Married,0.127,0
+21,56865.0,83686.0,24,783.0,1.4,0,3.0,Graduate,Yes,Urban,Single,0.736,0
+35,53138.0,100264.0,360,728.0,7.8,3,0.0,Not Graduate,No,Semiurban,Married,0.063,0
+41,66523.0,131481.0,240,585.0,5.0,0,0.0,Graduate,No,Semiurban,Single,0.099,1
+29,60971.0,149039.0,12,501.0,3.8,3,1.0,Graduate,No,Urban,Single,2.444,1
+29,60675.0,153862.0,180,857.0,2.5,1,0.0,Graduate,No,Semiurban,Married,0.169,1
+30,32570.0,115631.0,120,631.0,1.7,2,1.0,Not Graduate,No,Urban,Married,0.355,1
+46,17852.0,166019.0,120,581.0,8.7,1,2.0,Graduate,No,Semiurban,Married,0.93,0
+55,80128.0,150662.0,120,775.0,3.0,1,2.0,Graduate,No,Semiurban,Single,0.188,1
+45,43000.0,98194.0,120,735.0,3.5,1,2.0,Not Graduate,No,Urban,Married,0.228,0
+46,53921.0,86145.0,180,756.0,3.7,1,0.0,Not Graduate,No,Urban,Single,0.107,0
+31,62190.0,198669.0,36,641.0,3.0,1,1.0,Graduate,No,Rural,Married,1.065,0
+58,90838.0,191946.0,120,819.0,1.5,0,0.0,Graduate,No,Urban,Married,0.211,1
+22,58550.0,154571.0,36,532.0,0.6,0,0.0,Graduate,No,Semiurban,Single,0.88,0
+27,46314.0,223936.0,180,600.0,0.5,1,1.0,Graduate,No,Urban,Married,0.322,0
+38,43482.0,20000.0,180,685.0,7.1,3,0.0,Graduate,No,Rural,Single,0.031,0
+47,54178.0,104848.0,240,755.0,1.3,4,2.0,Graduate,No,Semiurban,Married,0.097,1
+54,34994.0,57495.0,24,710.0,0.3,0,2.0,Graduate,No,Semiurban,Single,0.821,1
+47,55635.0,330502.0,360,643.0,8.0,1,3.0,Graduate,No,Urban,Single,0.198,1
+37,53856.0,207058.0,84,607.0,0.8,1,2.0,Graduate,No,Urban,Single,0.549,0
+44,91114.0,143675.0,360,756.0,4.9,1,0.0,Graduate,No,Urban,Married,0.053,1
+45,53161.0,212799.0,84,719.0,2.1,0,1.0,Graduate,No,Urban,Married,0.572,0
+27,15000.0,239302.0,180,571.0,0.7,3,0.0,Not Graduate,No,Semiurban,Married,1.064,0
+26,113817.0,238451.0,360,569.0,2.7,4,1.0,Graduate,No,Semiurban,Married,0.07,0
+44,76050.0,223736.0,60,601.0,0.1,2,0.0,Graduate,Yes,Urban,Married,0.588,0
+53,100812.0,128997.0,24,589.0,9.2,3,0.0,Graduate,No,Semiurban,Married,0.64,0
+49,29539.0,109891.0,360,743.0,3.6,3,1.0,Graduate,,Urban,Married,0.124,1
+42,50120.0,73025.0,24,689.0,0.7,3,2.0,Not Graduate,No,Urban,Single,0.729,0
+46,69837.0,190196.0,36,700.0,1.4,1,,Graduate,No,Rural,Single,0.908,0
+48,66801.0,137285.0,24,667.0,3.0,0,1.0,Graduate,No,Semiurban,Single,1.028,1
+41,61753.0,116522.0,36,671.0,1.0,0,1.0,Graduate,No,Semiurban,Married,0.629,1
+27,15000.0,112347.0,120,508.0,1.6,0,1.0,Not Graduate,No,Urban,Married,0.749,0
+37,17326.0,266015.0,36,721.0,3.8,1,2.0,Graduate,Yes,Urban,Married,3.0,0
+40,88385.0,226214.0,240,599.0,8.9,0,0.0,Graduate,No,Urban,Married,0.128,1
+40,92297.0,296432.0,120,647.0,2.6,0,2.0,Graduate,No,Rural,Married,0.321,1
+42,52654.0,192321.0,180,607.0,6.3,1,1.0,Graduate,,Semiurban,Single,0.244,1
+48,85589.0,154556.0,12,663.0,10.5,1,0.0,Graduate,No,Urban,Married,1.806,0
+27,32489.0,147968.0,36,702.0,1.2,4,,Graduate,Yes,Rural,Married,1.518,0
+21,37523.0,68376.0,36,559.0,8.2,1,0.0,Graduate,No,Semiurban,Married,0.607,1
+52,30750.0,49086.0,24,673.0,7.1,1,1.0,Graduate,Yes,Rural,Married,0.798,0
+33,36302.0,190587.0,180,610.0,2.2,1,2.0,Graduate,Yes,Urban,Married,0.35,1
+50,70899.0,75226.0,360,769.0,22.8,1,0.0,Graduate,No,Urban,Married,0.035,1
+43,36028.0,166917.0,60,550.0,1.5,2,1.0,Graduate,No,Urban,Married,0.927,0
+39,104274.0,239237.0,84,560.0,1.5,2,4.0,Graduate,No,Urban,Married,0.328,1
+52,65122.0,96764.0,36,618.0,7.4,3,0.0,Graduate,No,Rural,Married,0.495,0
+50,78860.0,310839.0,360,567.0,2.9,0,0.0,Not Graduate,No,Semiurban,Married,0.131,1
+49,65779.0,70744.0,60,630.0,2.0,0,0.0,Graduate,No,Semiurban,Married,0.215,0
+49,81714.0,229216.0,84,602.0,1.0,2,2.0,Graduate,No,Rural,Married,0.401,0
+50,35904.0,183980.0,12,658.0,7.2,2,2.0,Graduate,No,Urban,Single,3.0,0
+36,86833.0,245528.0,24,741.0,7.7,0,1.0,Graduate,No,Rural,Married,1.414,0
+39,58101.0,60704.0,360,656.0,4.2,0,4.0,Graduate,No,Rural,Married,0.035,1
+38,81604.0,334562.0,24,665.0,15.8,1,2.0,Graduate,No,Semiurban,Single,2.05,0
+21,23330.0,135698.0,84,555.0,1.9,2,0.0,Graduate,No,Urban,Married,0.831,0
+34,58973.0,204132.0,240,638.0,1.2,0,2.0,Not Graduate,Yes,Semiurban,Single,0.173,0
+22,58195.0,265559.0,36,612.0,5.7,0,0.0,Graduate,No,Urban,Single,1.521,1
+48,41377.0,101627.0,120,711.0,7.1,1,2.0,Graduate,Yes,Rural,Married,0.246,0
+50,61889.0,216058.0,60,581.0,1.3,0,0.0,Not Graduate,No,Urban,Single,0.698,0
+58,88871.0,88282.0,180,573.0,0.4,2,2.0,Graduate,No,Semiurban,Married,0.066,1
+24,39685.0,261757.0,36,679.0,8.3,3,0.0,Not Graduate,No,Semiurban,Married,2.199,0
+21,76161.0,89186.0,120,828.0,18.8,1,3.0,Graduate,No,Urban,Single,0.117,1
+28,30197.0,153081.0,360,634.0,5.2,2,0.0,Graduate,No,Urban,Single,0.169,1
+49,101408.0,174490.0,12,665.0,1.6,1,2.0,Graduate,No,Urban,Single,1.721,0
+59,72261.0,212744.0,36,735.0,28.5,0,0.0,Not Graduate,No,Semiurban,Married,0.981,1
+23,92953.0,307478.0,24,696.0,11.2,0,3.0,Not Graduate,No,Rural,Married,1.654,0
+52,69785.0,113842.0,240,696.0,3.6,1,2.0,Graduate,Yes,Urban,Married,0.082,1
+30,63593.0,241099.0,180,641.0,8.7,0,0.0,Graduate,No,Rural,Married,0.253,0
+30,72445.0,307621.0,24,643.0,8.5,0,4.0,Graduate,No,Urban,Single,2.123,0
+39,51998.0,163259.0,120,582.0,13.7,0,1.0,Graduate,No,Semiurban,Married,0.314,1
+54,19408.0,105989.0,36,694.0,9.2,0,2.0,Not Graduate,Yes,Rural,Married,1.82,0
+53,64843.0,20000.0,240,692.0,5.2,0,2.0,Graduate,No,Urban,Married,0.015,1
+43,38379.0,300662.0,36,715.0,4.7,1,0.0,Graduate,No,Rural,Married,2.611,0
+48,30763.0,130444.0,360,606.0,3.1,0,4.0,Not Graduate,No,Semiurban,Single,0.141,0
+52,68998.0,69891.0,12,725.0,4.9,2,0.0,Not Graduate,No,Urban,Married,1.013,0
+27,48860.0,41334.0,84,752.0,7.9,0,0.0,Graduate,,Rural,Single,0.121,1
+49,77609.0,69743.0,36,541.0,17.4,1,3.0,Graduate,No,Urban,Married,0.3,1
+28,37643.0,223576.0,120,623.0,3.1,0,2.0,Not Graduate,No,Urban,Married,0.594,0
+21,44642.0,234629.0,24,756.0,4.3,0,0.0,Graduate,No,Semiurban,Single,2.628,0
+23,80307.0,202170.0,360,592.0,2.9,0,0.0,Graduate,No,Rural,Married,0.084,0
+44,61157.0,160587.0,120,698.0,5.5,3,2.0,Graduate,No,Rural,Married,0.263,1
+43,22499.0,50358.0,180,651.0,5.0,1,0.0,Not Graduate,No,Urban,Single,0.149,0
+28,60671.0,91605.0,84,680.0,0.1,1,3.0,Graduate,No,Rural,Married,0.216,0
+57,87587.0,61470.0,360,654.0,3.9,2,2.0,Graduate,No,Semiurban,Married,0.023,1
+23,44471.0,195826.0,12,717.0,0.5,2,0.0,Graduate,No,Rural,Single,3.0,0
+53,68157.0,64935.0,84,558.0,0.1,0,1.0,Not Graduate,Yes,Urban,Single,0.136,0
+48,36313.0,92860.0,120,568.0,7.8,3,1.0,Graduate,No,Semiurban,Married,0.256,1
+28,51991.0,135321.0,180,782.0,1.5,0,1.0,Not Graduate,No,Rural,Single,0.174,0
+54,78976.0,20000.0,60,839.0,2.1,1,2.0,Graduate,No,Semiurban,Married,0.051,1
+55,59823.0,153742.0,12,650.0,0.3,2,4.0,Not Graduate,No,Rural,Married,2.57,0
+52,83364.0,141428.0,240,804.0,1.0,1,1.0,Not Graduate,No,Urban,Married,0.085,1
+44,64357.0,244737.0,60,581.0,7.3,0,1.0,Not Graduate,No,Urban,Single,0.761,0
+34,103812.0,84411.0,36,602.0,,3,0.0,Not Graduate,No,Rural,Married,0.271,0
+52,20572.0,46064.0,180,781.0,10.6,0,2.0,Graduate,No,Rural,Married,0.149,1
+36,50222.0,120075.0,24,722.0,2.5,3,2.0,Graduate,No,Urban,Married,1.195,0
+24,31140.0,62153.0,240,795.0,1.6,2,2.0,Not Graduate,No,Urban,Single,0.1,0
+57,32643.0,153132.0,120,692.0,2.1,1,0.0,Not Graduate,No,Rural,Married,0.469,0
+41,32842.0,20000.0,180,559.0,,0,3.0,Graduate,Yes,Rural,Married,0.041,0
+34,58690.0,101572.0,84,670.0,4.0,0,0.0,Graduate,Yes,Semiurban,Single,0.247,0
+51,59979.0,75730.0,360,758.0,11.7,3,2.0,Graduate,No,Semiurban,Married,0.042,1
+38,64404.0,195421.0,84,638.0,4.6,2,2.0,Graduate,No,Rural,Married,0.433,1
+27,30293.0,85155.0,84,624.0,3.4,1,2.0,Graduate,Yes,Urban,Married,0.402,0
+30,47867.0,20000.0,36,694.0,7.7,0,1.0,Not Graduate,No,Rural,Single,0.139,0
+27,33786.0,133854.0,12,600.0,14.7,0,2.0,Graduate,No,Urban,Single,3.0,0
+53,75589.0,175591.0,24,677.0,2.2,2,0.0,Graduate,No,Semiurban,Married,1.161,0
+43,35854.0,128304.0,240,656.0,1.4,3,2.0,Graduate,No,Semiurban,Married,0.179,0
+41,50298.0,101094.0,12,606.0,4.8,2,0.0,Graduate,No,Semiurban,Married,2.01,0
+39,67327.0,96275.0,180,738.0,3.5,1,1.0,Graduate,No,Semiurban,Married,0.095,1
+39,41456.0,159036.0,84,708.0,22.6,0,0.0,Graduate,Yes,Rural,Single,0.548,1
+56,70265.0,78844.0,36,618.0,3.1,1,3.0,Graduate,No,Semiurban,Married,0.374,1
+49,90114.0,123721.0,180,649.0,,1,1.0,Graduate,No,Rural,Single,0.092,1
+38,59174.0,210036.0,360,626.0,18.9,0,2.0,Graduate,No,Urban,Single,0.118,1
+22,74835.0,45894.0,24,593.0,9.3,0,2.0,Graduate,No,Rural,Single,0.307,0
+21,15000.0,146507.0,240,497.0,1.0,2,3.0,Graduate,Yes,Urban,Single,0.488,1
+25,45561.0,20000.0,360,606.0,11.7,0,0.0,Graduate,No,Urban,Married,0.015,1
+40,59068.0,168234.0,36,594.0,2.1,1,2.0,Not Graduate,No,Urban,Married,0.949,0
+31,31835.0,71695.0,24,660.0,2.4,1,1.0,Graduate,No,Semiurban,Single,1.126,0
+22,59568.0,231567.0,180,690.0,11.8,3,0.0,Graduate,No,Rural,Single,0.259,1
+23,78319.0,31844.0,84,578.0,3.8,0,0.0,Graduate,Yes,Semiurban,Married,0.058,1
+43,15000.0,185366.0,84,684.0,0.7,0,0.0,Not Graduate,Yes,Urban,Single,1.765,1
+32,28840.0,247690.0,84,564.0,2.3,2,0.0,Graduate,Yes,Urban,Married,1.227,0
+40,59066.0,67545.0,60,639.0,6.4,2,1.0,Graduate,No,Semiurban,Married,0.229,1
+25,65129.0,81049.0,84,596.0,1.0,1,0.0,Graduate,No,Urban,Married,0.178,0
+57,71238.0,74464.0,60,717.0,4.5,0,1.0,Graduate,No,Semiurban,Single,0.209,0
+58,57440.0,111131.0,120,661.0,5.9,1,0.0,Graduate,No,Semiurban,Married,0.193,1
+50,65153.0,191394.0,60,640.0,2.1,0,0.0,Graduate,No,Rural,Married,0.588,0
+29,74877.0,104600.0,24,594.0,5.9,0,3.0,Not Graduate,No,Semiurban,Single,0.698,1
+54,45882.0,60323.0,360,620.0,10.8,0,1.0,Graduate,,Urban,Single,0.044,0
+55,41611.0,20000.0,24,815.0,3.2,0,0.0,Graduate,No,Rural,Single,0.24,0
+42,51293.0,278156.0,360,605.0,2.4,1,1.0,Graduate,No,Rural,Married,0.181,0
+44,59389.0,284440.0,120,693.0,1.4,3,0.0,Not Graduate,Yes,Rural,Married,0.479,0
+37,40518.0,194819.0,360,640.0,4.6,1,0.0,Graduate,Yes,Urban,Married,0.16,0
+30,46337.0,85169.0,360,691.0,10.6,2,0.0,Graduate,No,Semiurban,Single,0.061,1
+50,63749.0,209816.0,36,725.0,2.0,1,4.0,Graduate,No,Rural,Married,1.097,0
+43,58471.0,225897.0,12,618.0,2.5,1,2.0,Graduate,No,Urban,Married,3.0,0
+52,50923.0,129660.0,12,714.0,2.6,1,2.0,Not Graduate,No,Semiurban,Single,2.546,0
+37,16696.0,153309.0,36,898.0,4.1,1,4.0,Not Graduate,No,Urban,Married,3.0,0
+37,54923.0,248541.0,84,701.0,,1,4.0,Graduate,No,Semiurban,Single,0.646,0
+34,33660.0,20000.0,36,795.0,8.6,0,2.0,Graduate,Yes,Rural,Married,0.198,1
+29,76628.0,229874.0,360,693.0,1.8,1,2.0,Graduate,No,Semiurban,Married,0.1,1
+22,48208.0,125268.0,360,566.0,6.1,3,0.0,Graduate,No,Rural,Married,0.087,1
+45,33083.0,60994.0,36,675.0,3.6,2,0.0,Graduate,No,Semiurban,Single,0.615,0
+59,53646.0,67575.0,36,620.0,4.4,1,,Graduate,No,Rural,Single,0.42,1
+29,82955.0,80822.0,84,596.0,1.0,0,1.0,Graduate,No,Semiurban,Married,0.139,1
+42,68878.0,53194.0,24,643.0,6.6,1,4.0,Not Graduate,No,Urban,Married,0.386,1
+24,59838.0,291711.0,120,636.0,1.0,0,1.0,Graduate,No,Semiurban,Married,0.488,1
+46,25826.0,189296.0,180,555.0,0.6,0,2.0,Not Graduate,No,Rural,Single,0.489,0
+49,90675.0,235159.0,360,894.0,4.0,1,1.0,Not Graduate,No,Rural,Single,0.086,0
+54,41324.0,194989.0,120,723.0,6.2,0,0.0,Graduate,No,Semiurban,Single,0.472,0
+43,75543.0,154898.0,36,672.0,0.3,4,1.0,Graduate,No,Semiurban,Single,0.683,0
+57,47842.0,155980.0,84,658.0,0.4,3,1.0,Not Graduate,No,Rural,Married,0.466,0
+31,73425.0,118199.0,60,758.0,8.1,1,1.0,Not Graduate,Yes,Rural,Married,0.322,1
+26,83751.0,124737.0,84,837.0,8.3,2,1.0,Graduate,No,Semiurban,Married,0.213,1
+38,69259.0,37352.0,240,712.0,1.4,0,0.0,Graduate,No,Rural,Married,0.027,1
+41,71629.0,236546.0,240,661.0,4.8,1,1.0,Graduate,No,Semiurban,Married,0.165,1
+56,52834.0,20000.0,120,783.0,2.9,1,,Not Graduate,Yes,Urban,Married,0.038,0
+58,45453.0,65311.0,12,663.0,5.0,0,1.0,Not Graduate,No,Urban,Single,1.437,0
+54,58043.0,310963.0,240,689.0,9.9,2,1.0,Not Graduate,No,Rural,Married,0.268,1
+37,47522.0,160894.0,240,740.0,0.4,2,0.0,Not Graduate,No,Urban,Married,0.169,0
+57,109278.0,164217.0,24,615.0,7.5,0,0.0,Graduate,No,Semiurban,Married,0.751,1
+45,33168.0,200987.0,60,463.0,3.4,2,0.0,Graduate,No,Rural,Married,1.212,0
+58,77046.0,26773.0,24,611.0,4.2,0,1.0,Graduate,Yes,Urban,Single,0.174,0
+32,66378.0,38497.0,60,720.0,,2,1.0,Graduate,No,Rural,Single,0.116,0
+43,60057.0,114408.0,180,713.0,12.8,1,3.0,Graduate,No,Rural,Married,0.127,1
+42,87557.0,77731.0,360,771.0,0.3,1,0.0,Not Graduate,No,Rural,Married,0.03,1
+41,61564.0,144004.0,240,614.0,0.1,1,0.0,Not Graduate,No,Urban,Married,0.117,1
+47,41032.0,188844.0,360,792.0,1.0,4,1.0,Graduate,No,Urban,Married,0.153,0
+51,61418.0,261133.0,240,667.0,,1,1.0,Graduate,No,Rural,Married,0.213,1
+26,50970.0,214887.0,24,704.0,6.3,1,1.0,Graduate,No,Urban,Single,2.108,1
+47,66072.0,70458.0,180,731.0,4.8,0,3.0,Graduate,No,Semiurban,Married,0.071,1
+54,72888.0,120003.0,24,526.0,0.2,3,3.0,Graduate,No,Semiurban,Married,0.823,0
+32,36100.0,98244.0,24,560.0,10.6,2,0.0,Graduate,No,Urban,Single,1.361,0
+27,81297.0,68675.0,60,557.0,8.4,2,4.0,Not Graduate,No,Rural,Married,0.169,0
+30,49392.0,50466.0,12,746.0,5.5,0,0.0,Graduate,Yes,Semiurban,Married,1.022,1
+37,64760.0,283145.0,84,623.0,2.1,1,2.0,Not Graduate,No,Urban,Single,0.625,0
+46,68575.0,150851.0,120,832.0,0.4,0,2.0,Graduate,No,Urban,Married,0.22,1
+41,63083.0,132062.0,360,650.0,4.3,0,2.0,Graduate,No,Urban,Single,0.07,1
+48,52600.0,188741.0,240,518.0,6.4,1,0.0,Graduate,Yes,Urban,Single,0.179,1
+22,44251.0,192700.0,24,589.0,0.5,1,0.0,Not Graduate,No,Semiurban,Single,2.177,0
+21,49082.0,239506.0,12,661.0,5.0,1,,Not Graduate,No,Urban,Single,3.0,0
+56,89434.0,90507.0,24,696.0,1.7,2,0.0,Graduate,No,Urban,Single,0.506,1
+46,35951.0,182218.0,180,561.0,7.2,2,0.0,Not Graduate,No,Rural,Single,0.338,0
+49,39177.0,77106.0,60,701.0,3.9,2,1.0,Graduate,No,Semiurban,Single,0.394,0
+41,38211.0,134787.0,84,725.0,0.7,2,1.0,Graduate,Yes,Urban,Single,0.504,1
+31,57987.0,154539.0,180,592.0,3.7,1,2.0,Not Graduate,No,Rural,Single,0.178,0
+31,21456.0,162359.0,36,827.0,2.5,0,0.0,Not Graduate,No,Urban,Single,2.522,0
+56,25222.0,158826.0,24,602.0,1.0,0,3.0,Graduate,Yes,Rural,Married,3.0,0
+59,49259.0,214146.0,180,560.0,9.2,4,0.0,Graduate,No,Semiurban,Single,0.29,0
+55,26669.0,102241.0,84,512.0,0.1,3,3.0,Graduate,No,Rural,Married,0.548,0
+54,28462.0,164534.0,12,760.0,1.9,6,1.0,Graduate,Yes,Rural,Married,3.0,0
+44,26834.0,89288.0,12,652.0,0.1,1,1.0,Not Graduate,No,Semiurban,Married,3.0,0
+42,36375.0,383660.0,360,607.0,,1,3.0,Graduate,Yes,Rural,Single,0.352,0
+25,71087.0,76971.0,84,517.0,1.8,2,0.0,Graduate,No,Rural,Married,0.155,0
+53,76026.0,93948.0,12,615.0,0.3,0,0.0,Graduate,No,Urban,Single,1.236,1
+56,97218.0,220612.0,180,864.0,4.5,2,1.0,Not Graduate,No,Semiurban,Married,0.151,1
+40,96412.0,115643.0,360,457.0,0.5,0,0.0,Not Graduate,No,Rural,Married,0.04,0
+39,72299.0,220644.0,12,593.0,6.0,1,1.0,Not Graduate,Yes,Semiurban,Married,3.0,0
+55,77609.0,162242.0,60,811.0,0.3,1,0.0,Graduate,Yes,Rural,Single,0.418,1
+37,57884.0,117745.0,36,762.0,0.3,1,3.0,Not Graduate,Yes,Semiurban,Single,0.678,1
+54,66437.0,89780.0,84,599.0,1.8,0,2.0,Graduate,No,Semiurban,Married,0.193,0
+29,97759.0,86893.0,180,668.0,11.3,1,0.0,Graduate,No,Urban,Married,0.059,1
+46,63167.0,118614.0,240,692.0,5.1,0,3.0,Not Graduate,No,Urban,Single,0.094,1
+22,80371.0,136048.0,24,662.0,7.4,0,0.0,Graduate,No,Semiurban,Married,0.846,1
+29,34444.0,83450.0,180,811.0,0.8,0,0.0,Graduate,No,Semiurban,Married,0.162,1
+29,40343.0,141261.0,12,681.0,9.0,0,1.0,Graduate,No,Semiurban,Married,3.0,0
+37,61866.0,62471.0,180,752.0,0.0,0,2.0,Graduate,No,Semiurban,Single,0.067,1
+21,58298.0,210472.0,240,666.0,1.2,2,1.0,Graduate,No,Semiurban,Married,0.181,0
+45,41361.0,225789.0,24,467.0,,1,2.0,Not Graduate,Yes,Rural,Married,2.729,0
+45,107962.0,93654.0,360,543.0,2.4,1,0.0,Graduate,No,Urban,Single,0.029,1
+59,58797.0,89186.0,12,561.0,20.7,1,4.0,Graduate,No,Semiurban,Single,1.517,0
+55,45260.0,164233.0,120,628.0,0.2,2,2.0,Not Graduate,No,Urban,Married,0.363,0
+23,58336.0,251229.0,12,837.0,32.8,1,0.0,Not Graduate,No,Semiurban,Married,3.0,0
+57,55559.0,268933.0,36,683.0,4.9,2,2.0,Graduate,No,Urban,Married,1.613,1
+50,59132.0,37781.0,120,640.0,4.1,1,1.0,Graduate,Yes,Semiurban,Married,0.064,1
+58,19938.0,230504.0,36,761.0,0.3,1,0.0,Graduate,No,Urban,Married,3.0,0
+54,83423.0,145076.0,240,519.0,1.6,2,0.0,Graduate,No,Urban,Married,0.087,0
+32,84674.0,146625.0,84,606.0,12.9,2,0.0,Graduate,Yes,Semiurban,Married,0.247,0
+39,87347.0,190377.0,24,593.0,2.2,1,3.0,Graduate,No,Rural,Single,1.09,0
+57,62159.0,111523.0,60,686.0,5.4,1,1.0,Graduate,No,Urban,Single,0.359,0
+37,69575.0,237736.0,360,731.0,35.0,0,0.0,Graduate,No,Semiurban,Married,0.114,1
+30,35943.0,263917.0,60,692.0,1.5,2,0.0,Graduate,No,Semiurban,Married,1.469,0
+32,73324.0,266903.0,240,694.0,4.3,0,1.0,Graduate,No,Urban,Married,0.182,0
+36,60539.0,20000.0,84,618.0,6.0,2,1.0,Graduate,No,Urban,Married,0.047,0
+44,44871.0,131627.0,12,679.0,0.9,0,2.0,Graduate,No,Urban,Married,2.933,0
+39,74024.0,20000.0,180,574.0,0.8,4,4.0,Graduate,No,Rural,Single,0.018,0
+28,74876.0,88778.0,36,711.0,3.0,0,1.0,Graduate,No,Urban,Single,0.395,0
+51,56333.0,20000.0,240,605.0,2.4,3,1.0,Graduate,Yes,Urban,Married,0.018,1
+41,64644.0,186021.0,36,549.0,6.3,2,1.0,Not Graduate,Yes,Urban,Single,0.959,0
+37,32302.0,167545.0,12,653.0,0.4,2,3.0,Graduate,Yes,Semiurban,Married,3.0,0
+43,82350.0,115392.0,84,478.0,17.9,2,0.0,Graduate,No,Semiurban,Married,0.2,1
+57,35226.0,86708.0,24,783.0,0.1,3,0.0,Graduate,No,Semiurban,Married,1.231,0
+36,39481.0,175123.0,60,722.0,4.6,1,2.0,Graduate,No,Semiurban,Single,0.887,0
+26,56371.0,69086.0,12,680.0,4.1,0,0.0,Graduate,No,Semiurban,Single,1.226,0
+28,79519.0,63643.0,360,504.0,0.7,0,0.0,Graduate,Yes,Urban,Single,0.027,1
+45,79507.0,53807.0,120,587.0,0.8,0,2.0,Graduate,Yes,Semiurban,Married,0.068,1
+38,54894.0,133693.0,240,654.0,7.9,3,0.0,Graduate,Yes,Semiurban,Single,0.122,0
+45,72006.0,103415.0,60,626.0,10.9,1,0.0,Not Graduate,No,Semiurban,Single,0.287,1
+32,17841.0,119261.0,360,498.0,1.7,0,1.0,Graduate,Yes,Rural,Married,0.223,0
+35,39175.0,191745.0,24,532.0,2.9,3,1.0,Graduate,No,Semiurban,Married,2.447,0
+46,39623.0,227064.0,360,625.0,2.2,1,0.0,Graduate,No,Urban,Single,0.191,0
+46,82549.0,266038.0,84,535.0,0.4,1,4.0,Not Graduate,No,Urban,Single,0.46,1
+52,69402.0,154811.0,120,773.0,5.6,4,0.0,Not Graduate,No,Semiurban,Married,0.223,0
+30,59062.0,177807.0,36,695.0,8.7,1,2.0,Graduate,No,Semiurban,Married,1.004,1
+36,61198.0,165108.0,60,578.0,1.8,0,0.0,Graduate,Yes,Urban,Married,0.54,0
+27,89503.0,20000.0,120,755.0,23.1,2,1.0,Graduate,No,Rural,Single,0.022,1
+37,51256.0,120424.0,180,737.0,0.4,0,0.0,Graduate,Yes,Semiurban,Single,0.157,1
+43,26091.0,120792.0,12,676.0,5.4,0,0.0,Graduate,Yes,Urban,Married,3.0,0
+46,78918.0,109135.0,180,646.0,3.0,0,0.0,Graduate,No,Semiurban,Married,0.092,0
+41,59000.0,146725.0,12,623.0,3.0,0,1.0,Not Graduate,No,Urban,Single,2.487,0
+42,75981.0,132442.0,84,601.0,3.1,0,1.0,Graduate,No,Semiurban,Married,0.249,1
+27,54015.0,71094.0,120,530.0,1.5,2,0.0,Not Graduate,Yes,Semiurban,Single,0.132,1
+34,36549.0,137918.0,24,788.0,6.3,1,4.0,Graduate,No,Urban,Married,1.887,0
+35,63862.0,98876.0,360,603.0,6.4,2,0.0,Graduate,No,Rural,Married,0.052,1
+27,55224.0,20000.0,120,653.0,1.7,2,1.0,Graduate,No,Rural,Married,0.036,0
+29,59069.0,38234.0,180,568.0,9.0,1,0.0,Graduate,No,Urban,Married,0.043,0
+28,90565.0,157113.0,240,627.0,1.9,0,1.0,Graduate,No,Urban,Single,0.087,1
+43,30829.0,237351.0,12,900.0,6.5,0,2.0,Graduate,No,Urban,Single,3.0,0
+49,61290.0,20000.0,240,585.0,0.6,2,1.0,Not Graduate,No,Rural,Single,0.016,0
+38,36982.0,80369.0,60,780.0,0.9,2,0.0,Graduate,Yes,Urban,Married,0.435,0
+51,15000.0,184516.0,240,647.0,1.9,1,0.0,Graduate,No,Semiurban,Married,0.615,0
+50,53923.0,220256.0,120,711.0,4.5,2,2.0,Graduate,,Urban,Married,0.408,1
+59,55683.0,116391.0,360,762.0,5.2,1,0.0,Not Graduate,No,Urban,Single,0.07,1
+55,68717.0,95377.0,60,675.0,,0,,Graduate,No,Rural,Married,0.278,0
+38,50214.0,247577.0,24,618.0,,0,0.0,Graduate,Yes,Rural,Single,2.465,0
+59,22242.0,213687.0,24,633.0,2.3,1,0.0,Graduate,No,Semiurban,Single,3.0,1
+37,36907.0,218689.0,84,636.0,5.8,2,0.0,Graduate,Yes,Semiurban,Married,0.846,0
+34,83973.0,112555.0,360,818.0,5.6,4,3.0,Not Graduate,No,Semiurban,Single,0.045,0
+51,36594.0,239096.0,36,516.0,0.9,4,2.0,Graduate,No,Urban,Single,2.178,0
+44,89831.0,20000.0,240,491.0,0.0,0,1.0,Graduate,Yes,Urban,Single,0.011,0
+55,78100.0,240498.0,60,497.0,7.0,1,0.0,Graduate,No,Semiurban,Single,0.616,1
+54,48009.0,144677.0,120,570.0,0.6,0,1.0,Graduate,No,Rural,Single,0.301,0
+23,38960.0,160315.0,120,713.0,0.4,1,1.0,Graduate,Yes,Rural,Married,0.411,0
+57,78054.0,74380.0,36,719.0,0.0,0,1.0,Graduate,No,Urban,Married,0.318,1
+46,49700.0,20000.0,84,595.0,2.8,3,0.0,Graduate,No,Urban,Married,0.057,0
+43,20996.0,158616.0,36,647.0,3.5,1,4.0,Graduate,Yes,Urban,Married,2.518,0
+59,67371.0,194112.0,12,550.0,5.1,1,1.0,Graduate,Yes,Rural,Single,2.881,0
+35,64180.0,206215.0,180,558.0,1.8,1,3.0,Graduate,No,Rural,Married,0.214,0
+24,80030.0,197582.0,60,702.0,6.2,1,0.0,Graduate,No,Urban,Married,0.494,0
+49,62691.0,179453.0,180,744.0,0.9,0,0.0,Not Graduate,No,Semiurban,Married,0.191,1
+42,42919.0,76097.0,36,607.0,8.9,1,0.0,Not Graduate,No,Semiurban,Single,0.591,1
+45,82933.0,211398.0,84,797.0,4.2,1,2.0,Graduate,No,Urban,Single,0.364,1
+33,85074.0,67150.0,84,737.0,4.4,1,0.0,Graduate,No,Semiurban,Married,0.113,1
+38,60131.0,238565.0,24,793.0,1.2,0,3.0,Graduate,No,Semiurban,Single,1.984,0
+53,56327.0,143281.0,24,623.0,0.4,2,3.0,Not Graduate,Yes,Urban,Married,1.272,0
+36,25888.0,145943.0,60,787.0,3.1,0,2.0,Not Graduate,No,Semiurban,Single,1.127,0
+22,41634.0,219274.0,60,846.0,4.8,1,2.0,Graduate,No,Urban,Single,1.053,0
+55,71737.0,230117.0,60,613.0,,1,2.0,Graduate,Yes,Semiurban,Single,0.642,0
+54,42740.0,211651.0,120,636.0,15.0,0,2.0,Graduate,No,Rural,Single,0.495,0
+50,22950.0,84363.0,24,565.0,19.7,0,1.0,Graduate,Yes,Semiurban,Married,1.838,1
+33,131909.0,211014.0,120,547.0,3.9,3,2.0,Graduate,No,Urban,Married,0.16,1
+33,22805.0,84817.0,180,548.0,15.0,3,3.0,Graduate,No,Urban,Married,0.248,0
+38,104649.0,213032.0,36,577.0,1.0,1,,Not Graduate,Yes,Semiurban,Married,0.679,0
+52,48237.0,35987.0,240,675.0,0.1,1,4.0,Graduate,Yes,Urban,Married,0.037,0
+52,53140.0,142506.0,24,581.0,0.2,2,0.0,Graduate,No,Semiurban,Married,1.341,0
+55,40210.0,84329.0,240,672.0,4.4,0,0.0,Graduate,No,Urban,Married,0.105,1
+59,72222.0,219595.0,84,674.0,0.3,1,0.0,Graduate,No,Rural,Married,0.434,0
+49,23325.0,239213.0,24,608.0,15.9,0,0.0,Not Graduate,No,Rural,Married,3.0,0
+49,15000.0,165920.0,180,644.0,0.8,1,3.0,Graduate,No,Rural,Single,0.737,0
+36,90424.0,163289.0,24,602.0,1.8,1,3.0,Graduate,No,Urban,Married,0.903,0
+30,37313.0,206334.0,120,622.0,8.6,0,,Graduate,No,Semiurban,Single,0.553,1
+50,71414.0,239689.0,36,577.0,1.2,0,4.0,Graduate,No,Urban,Married,1.119,0
+45,31120.0,152985.0,360,658.0,1.4,1,0.0,Graduate,No,Rural,Married,0.164,1
+59,70585.0,110026.0,36,596.0,5.1,1,0.0,Not Graduate,No,Urban,Married,0.52,0
+40,92038.0,201781.0,36,545.0,1.6,2,1.0,Graduate,No,Rural,Married,0.731,0
+25,43403.0,20000.0,84,703.0,1.2,1,3.0,Graduate,No,Semiurban,Married,0.066,1
+21,15000.0,222772.0,180,706.0,1.5,2,0.0,Not Graduate,No,Rural,Single,0.99,0
+50,92153.0,93185.0,240,750.0,3.4,2,4.0,Graduate,No,Semiurban,Married,0.051,1
+23,75377.0,130782.0,180,558.0,16.9,0,2.0,Graduate,No,Urban,Married,0.116,0
+34,44581.0,223284.0,360,607.0,8.9,5,4.0,Graduate,No,Rural,Married,0.167,0
+50,50205.0,116759.0,84,671.0,1.7,2,1.0,Graduate,No,Urban,Single,0.332,0
+24,30566.0,201793.0,36,605.0,,1,1.0,Not Graduate,Yes,Rural,Married,2.201,0
+38,86246.0,241113.0,120,701.0,3.1,2,2.0,Graduate,No,Rural,Single,0.28,0
+57,43236.0,158803.0,84,695.0,19.3,0,2.0,Graduate,No,Rural,Married,0.525,1
+45,23788.0,174916.0,60,693.0,0.9,2,0.0,Graduate,No,Urban,Married,1.471,0
+21,59700.0,140445.0,24,781.0,,1,3.0,Graduate,No,Urban,Married,1.176,1
+35,36080.0,159248.0,180,708.0,6.5,0,3.0,Graduate,No,Rural,Single,0.294,0
+29,32340.0,60688.0,84,664.0,16.6,2,0.0,Graduate,No,Rural,Single,0.268,0
+35,45538.0,126501.0,60,633.0,0.8,1,0.0,Not Graduate,Yes,Urban,Married,0.556,0
+44,56900.0,46944.0,240,639.0,1.3,1,1.0,Graduate,Yes,Urban,Married,0.041,1
+24,24616.0,78099.0,360,554.0,1.3,1,1.0,Graduate,No,Urban,Married,0.106,0
+32,85473.0,20000.0,360,491.0,0.1,2,2.0,Graduate,No,Rural,Married,0.008,0
+57,69898.0,171114.0,36,692.0,,2,0.0,Graduate,Yes,Rural,Married,0.816,0
+57,46962.0,285328.0,36,760.0,5.6,2,2.0,Graduate,No,Urban,Single,2.025,0
+26,35126.0,113512.0,84,620.0,4.6,2,2.0,Graduate,No,Urban,Single,0.462,0
+59,53037.0,227211.0,84,793.0,0.4,1,0.0,Graduate,Yes,Semiurban,Married,0.612,0
+44,74788.0,240055.0,24,634.0,0.4,0,1.0,Graduate,No,Urban,Single,1.605,0
+31,71381.0,54069.0,12,474.0,1.2,3,0.0,Graduate,No,Rural,Single,0.757,0
+33,78287.0,71296.0,240,733.0,1.7,1,0.0,Graduate,No,Semiurban,Married,0.046,1
+54,44432.0,229264.0,36,607.0,7.7,0,1.0,Graduate,Yes,Semiurban,Married,1.72,0
+45,15000.0,142613.0,12,741.0,0.9,1,4.0,Not Graduate,No,Rural,Single,3.0,0
+27,82452.0,46737.0,12,535.0,0.2,0,0.0,Graduate,No,Semiurban,Married,0.567,1
+24,51322.0,99051.0,24,687.0,2.5,0,1.0,Not Graduate,No,Urban,Married,0.965,1
+28,69656.0,183573.0,120,578.0,2.7,2,0.0,Graduate,No,Rural,Single,0.264,0
+40,91723.0,86485.0,120,668.0,3.0,0,,Not Graduate,No,Urban,Married,0.094,1
+49,108557.0,20000.0,36,719.0,8.8,3,1.0,Graduate,,Rural,Single,0.061,1
+30,40704.0,124239.0,60,698.0,0.5,2,2.0,Graduate,No,Urban,Married,0.61,0
+54,57947.0,130721.0,24,656.0,,3,,Not Graduate,Yes,Rural,Married,1.128,0
+46,85070.0,150738.0,24,526.0,2.1,0,4.0,Graduate,No,Urban,Married,0.886,1
+23,36426.0,250711.0,180,716.0,1.9,0,0.0,Graduate,Yes,Urban,Married,0.459,1
+26,42194.0,154282.0,12,743.0,13.5,1,3.0,Not Graduate,Yes,Urban,Married,3.0,0
+25,42063.0,169435.0,180,556.0,1.4,1,3.0,Graduate,No,Rural,Married,0.269,0
+25,54382.0,234443.0,12,569.0,5.1,1,,Graduate,No,Rural,Single,3.0,0
+43,50157.0,150828.0,120,747.0,1.6,2,0.0,Graduate,Yes,Urban,Married,0.301,0
+29,41937.0,320922.0,36,631.0,3.5,3,1.0,Graduate,No,Urban,Married,2.551,0
+55,33753.0,48903.0,240,572.0,7.7,0,2.0,Graduate,No,Urban,Married,0.072,0
+40,72863.0,75268.0,120,675.0,10.7,1,3.0,Not Graduate,No,Urban,Married,0.103,1
+55,84432.0,199117.0,24,593.0,9.1,0,1.0,Graduate,No,Rural,Married,1.179,0
+38,87620.0,250345.0,240,664.0,4.4,1,1.0,Graduate,No,Semiurban,Married,0.143,1
+37,44416.0,133936.0,84,613.0,1.4,1,3.0,Graduate,No,Rural,Single,0.431,0
+44,73782.0,69150.0,240,621.0,5.4,1,4.0,Not Graduate,No,Rural,Married,0.047,0
+23,60199.0,290879.0,240,750.0,6.2,1,2.0,Graduate,Yes,Semiurban,Single,0.242,1
+52,42445.0,86610.0,120,428.0,0.1,2,3.0,Not Graduate,No,Rural,Married,0.204,0
+55,71153.0,177124.0,24,700.0,2.9,0,1.0,Graduate,Yes,Urban,Single,1.245,0
+58,41435.0,255132.0,240,735.0,9.3,1,2.0,Not Graduate,No,Urban,Married,0.308,0
+33,46724.0,114672.0,120,594.0,3.4,1,2.0,Graduate,No,Rural,Single,0.245,0
+45,24712.0,100230.0,120,734.0,1.9,3,2.0,Graduate,No,Urban,Married,0.406,1
+29,44787.0,105705.0,240,564.0,10.3,1,0.0,Graduate,No,Urban,Married,0.118,1
+24,60585.0,222124.0,12,591.0,0.8,2,1.0,Graduate,No,Rural,Married,3.0,0
+34,89517.0,234812.0,24,580.0,1.2,0,1.0,Graduate,No,Semiurban,Single,1.312,0
+57,47223.0,152698.0,360,736.0,5.8,1,0.0,Graduate,No,Semiurban,Single,0.108,0
+54,32160.0,300647.0,240,493.0,2.2,1,0.0,Graduate,Yes,Semiurban,Married,0.467,0
+31,87942.0,152557.0,180,798.0,6.2,1,2.0,Graduate,Yes,Urban,Married,0.116,1
+23,43900.0,253387.0,180,623.0,0.9,0,1.0,Graduate,Yes,Rural,Single,0.385,0
+48,16536.0,115440.0,84,705.0,1.5,0,0.0,Graduate,Yes,Urban,Single,0.997,0
+49,57928.0,336701.0,24,698.0,0.9,1,3.0,Not Graduate,No,Semiurban,Married,2.906,0
+29,47855.0,275611.0,120,664.0,15.3,1,3.0,Not Graduate,No,Rural,Single,0.576,0
+23,105609.0,139762.0,36,596.0,2.6,2,1.0,Graduate,No,Semiurban,Married,0.441,1
+45,65458.0,264763.0,60,762.0,2.1,1,0.0,Graduate,No,Rural,Married,0.809,1
+54,51780.0,260718.0,24,604.0,0.1,1,4.0,Graduate,Yes,Rural,Married,2.518,0
+32,34661.0,274243.0,24,584.0,0.8,0,3.0,Graduate,No,Rural,Single,3.0,0
+29,62264.0,20000.0,240,729.0,2.7,1,0.0,Graduate,No,Urban,Married,0.016,1
+35,87048.0,207548.0,240,663.0,0.4,0,0.0,Graduate,No,Semiurban,Married,0.119,1
+45,61860.0,193384.0,120,772.0,3.6,2,1.0,Graduate,No,Rural,Married,0.313,1
+25,36357.0,187686.0,84,644.0,3.0,1,2.0,Not Graduate,No,Semiurban,Married,0.737,0
+31,66854.0,167468.0,240,591.0,7.3,1,0.0,Graduate,No,Semiurban,Married,0.125,0
+54,53931.0,169825.0,60,675.0,5.4,0,1.0,Graduate,No,Semiurban,Married,0.63,0
+44,64869.0,252651.0,60,610.0,3.0,1,1.0,Graduate,No,Urban,Single,0.779,0
+35,47194.0,193158.0,84,594.0,1.3,3,3.0,Graduate,No,Urban,Married,0.585,1
+58,46678.0,167353.0,12,725.0,6.5,0,1.0,Graduate,Yes,Rural,Married,3.0,0
+28,45809.0,241150.0,12,815.0,6.2,0,1.0,Graduate,No,Semiurban,Single,3.0,0
+25,75729.0,183442.0,24,628.0,0.8,3,4.0,Not Graduate,No,Urban,Single,1.211,0
+46,46899.0,191085.0,240,562.0,12.3,3,0.0,Graduate,No,Rural,Married,0.204,0
+38,44886.0,299363.0,180,636.0,0.3,2,0.0,Not Graduate,No,Semiurban,Married,0.445,0
+26,34275.0,115242.0,360,696.0,0.3,1,2.0,Graduate,No,Rural,Single,0.112,1
+57,64988.0,28743.0,84,673.0,,0,0.0,Graduate,No,Urban,Married,0.063,1
+33,61857.0,155789.0,24,757.0,12.0,1,3.0,Not Graduate,No,Rural,Married,1.259,0
+48,45127.0,167163.0,180,710.0,3.7,0,0.0,Graduate,No,Semiurban,Married,0.247,1
+25,39394.0,207722.0,240,551.0,7.8,0,0.0,Graduate,No,Semiurban,Single,0.264,0
+33,96276.0,158585.0,180,606.0,1.3,0,3.0,Not Graduate,No,Urban,Married,0.11,0
+37,15000.0,210410.0,180,526.0,,1,1.0,Graduate,No,Urban,Single,0.935,0
+52,65850.0,350369.0,84,753.0,2.2,0,2.0,Graduate,No,Urban,Married,0.76,0
+49,83411.0,214121.0,24,471.0,8.8,0,0.0,Not Graduate,No,Rural,Single,1.284,0
+23,15000.0,228185.0,120,535.0,0.1,0,0.0,Graduate,No,Urban,Married,1.521,0
+54,72471.0,139637.0,60,604.0,1.4,1,3.0,Graduate,Yes,Semiurban,Married,0.385,1
+47,50154.0,39179.0,24,701.0,0.8,3,1.0,Not Graduate,No,Urban,Married,0.391,0
+33,60633.0,20000.0,360,603.0,9.8,0,1.0,Graduate,No,Urban,Married,0.011,1
+53,47889.0,108506.0,180,617.0,3.2,0,0.0,Graduate,No,Urban,Married,0.151,1
+26,78659.0,20000.0,120,619.0,2.6,0,1.0,Not Graduate,No,Rural,Single,0.025,0
+44,62989.0,191084.0,84,666.0,3.0,1,,Graduate,No,Rural,Single,0.433,0
+39,57898.0,119375.0,36,540.0,17.9,0,3.0,Graduate,No,Rural,Married,0.687,1
+36,35225.0,44930.0,60,565.0,9.5,2,2.0,Not Graduate,No,Rural,Married,0.255,0
+48,96410.0,160470.0,36,801.0,6.1,0,2.0,Graduate,Yes,Urban,Married,0.555,1
+53,55218.0,90909.0,240,686.0,1.7,0,,Graduate,No,Rural,Single,0.082,1
+33,105376.0,186062.0,36,718.0,0.9,4,1.0,Graduate,No,Semiurban,Married,0.589,0
+45,97407.0,206610.0,180,655.0,12.7,0,2.0,Graduate,No,Rural,Single,0.141,1
+56,15876.0,93853.0,180,637.0,2.8,1,0.0,Not Graduate,No,Urban,Married,0.394,0
+47,40591.0,131018.0,180,691.0,1.6,2,0.0,Graduate,No,Rural,Married,0.215,1
+58,32187.0,167192.0,180,715.0,3.2,1,,Graduate,No,Urban,Married,0.346,0
+27,53939.0,37437.0,24,726.0,12.5,1,0.0,Graduate,Yes,Urban,Married,0.347,1
+25,59118.0,167185.0,36,639.0,2.4,1,0.0,Not Graduate,No,Urban,Single,0.943,0
+51,60058.0,35519.0,360,736.0,4.1,2,1.0,Graduate,,Urban,Single,0.02,1
+43,78191.0,195257.0,36,428.0,8.1,3,2.0,Not Graduate,No,Semiurban,Single,0.832,0
+30,87859.0,115187.0,24,730.0,2.8,1,1.0,Graduate,No,Rural,Single,0.656,0
+52,76285.0,35077.0,360,612.0,1.3,0,1.0,Not Graduate,No,Rural,Married,0.015,0
+50,42659.0,103602.0,360,700.0,26.0,0,4.0,Graduate,No,Urban,Married,0.081,1
+59,37795.0,106986.0,60,592.0,15.7,2,2.0,Graduate,No,Urban,Single,0.566,0
+51,55061.0,235482.0,360,531.0,9.3,1,3.0,Not Graduate,No,Semiurban,Single,0.143,0
+38,64375.0,163864.0,36,681.0,5.8,2,0.0,Graduate,No,Rural,Single,0.848,0
+56,50970.0,73498.0,180,515.0,1.7,1,0.0,Graduate,No,Urban,Married,0.096,1
+22,25399.0,281925.0,180,614.0,12.2,3,1.0,Not Graduate,No,Semiurban,Married,0.74,0
+34,70005.0,200119.0,240,577.0,1.6,0,0.0,Graduate,No,Urban,Married,0.143,0
+33,46369.0,123094.0,60,634.0,8.1,0,0.0,Graduate,No,Semiurban,Single,0.531,0
+49,45705.0,25693.0,36,722.0,12.5,1,0.0,Graduate,No,Urban,Single,0.187,1
+32,53799.0,116033.0,36,606.0,4.6,1,1.0,Not Graduate,Yes,Urban,Married,0.719,0
+59,49722.0,132359.0,84,678.0,8.1,1,2.0,Graduate,No,Urban,Married,0.38,1
+22,46937.0,179523.0,12,717.0,7.8,0,2.0,Graduate,Yes,Urban,Married,3.0,0
+52,26837.0,198581.0,36,595.0,1.1,2,0.0,Graduate,No,Urban,Married,2.467,0
+33,52531.0,214527.0,120,597.0,5.5,0,1.0,Graduate,No,Semiurban,Married,0.408,1
+47,70465.0,21083.0,36,773.0,0.5,1,0.0,Not Graduate,No,Urban,Single,0.1,1
+37,60822.0,166680.0,84,643.0,3.5,0,1.0,Graduate,No,Urban,Single,0.391,0
+51,75859.0,137231.0,360,696.0,0.9,1,1.0,Graduate,No,Urban,Single,0.06,1
+54,38972.0,364238.0,24,695.0,2.7,0,1.0,Graduate,No,Rural,Married,3.0,0
+44,26883.0,155176.0,24,542.0,8.9,2,3.0,Graduate,Yes,Semiurban,Married,2.886,0
+55,49591.0,100188.0,120,582.0,21.8,1,,Not Graduate,No,Semiurban,Single,0.202,1
+26,41487.0,158830.0,120,684.0,1.9,2,2.0,Graduate,No,Urban,Married,0.383,0
+39,43773.0,149315.0,240,464.0,3.8,0,3.0,Graduate,No,Urban,Single,0.171,0
+50,59658.0,20000.0,24,631.0,3.6,0,2.0,Graduate,No,Urban,Single,0.168,1
+27,43932.0,182664.0,360,572.0,15.4,2,3.0,Not Graduate,No,Semiurban,Married,0.139,1
+30,27498.0,125155.0,24,750.0,3.3,0,1.0,Graduate,,Semiurban,Married,2.276,0
+52,42702.0,147865.0,12,681.0,6.0,0,1.0,Graduate,No,Rural,Married,3.0,0
+54,62481.0,80115.0,24,757.0,,0,2.0,Not Graduate,No,Rural,Married,0.641,0
+48,69773.0,62487.0,180,646.0,2.3,1,0.0,Not Graduate,No,Semiurban,Married,0.06,0
+35,69551.0,220311.0,240,640.0,11.6,4,2.0,Graduate,No,Semiurban,Single,0.158,0
+50,64338.0,238677.0,84,623.0,12.5,1,4.0,Graduate,No,Urban,Single,0.53,0
+57,51302.0,183448.0,120,605.0,13.3,0,2.0,Not Graduate,Yes,Urban,Married,0.358,0
+49,63908.0,20000.0,12,892.0,1.6,0,0.0,Graduate,No,Rural,Married,0.313,1
+42,54069.0,188645.0,120,723.0,2.6,2,1.0,Graduate,Yes,Urban,Married,0.349,1
+24,57488.0,20000.0,240,554.0,10.2,1,3.0,Graduate,Yes,Rural,Married,0.017,1
+40,34335.0,97106.0,36,888.0,2.2,0,4.0,Graduate,No,Semiurban,Married,0.943,1
+52,55965.0,219245.0,12,614.0,4.6,0,1.0,Not Graduate,Yes,Semiurban,Single,3.0,0
+56,63331.0,202608.0,60,679.0,0.6,0,3.0,Graduate,No,Urban,Married,0.64,1
+24,62505.0,186557.0,12,735.0,0.3,0,3.0,Not Graduate,No,Semiurban,Married,2.985,1
+47,26675.0,255032.0,240,512.0,2.7,4,0.0,Not Graduate,No,Semiurban,Married,0.478,0
+37,57118.0,194801.0,84,576.0,4.3,2,3.0,Graduate,No,Urban,Married,0.487,0
+32,23234.0,20000.0,12,798.0,2.5,1,0.0,Not Graduate,No,Urban,Married,0.861,0
+42,58821.0,120438.0,240,630.0,4.3,1,1.0,Graduate,No,Urban,Married,0.102,1
+37,39571.0,146671.0,360,740.0,3.6,1,1.0,Graduate,No,Semiurban,Married,0.124,1
+30,92524.0,137301.0,24,609.0,5.8,0,2.0,Not Graduate,No,Urban,Single,0.742,0
+21,57623.0,100629.0,360,641.0,5.2,1,2.0,Graduate,No,Semiurban,Single,0.058,1
+42,72626.0,67588.0,240,811.0,2.8,0,1.0,Graduate,No,Semiurban,Single,0.047,1
+46,101439.0,342060.0,180,689.0,2.8,0,3.0,Graduate,No,Urban,Married,0.225,1
+38,37017.0,118900.0,36,619.0,0.8,2,3.0,Not Graduate,No,Semiurban,Married,1.071,0
+34,64585.0,338128.0,24,588.0,3.6,1,,Graduate,No,Urban,Married,2.618,0
+49,28910.0,58697.0,180,597.0,4.4,0,1.0,Graduate,Yes,Semiurban,Single,0.135,0
+32,62588.0,202565.0,84,762.0,3.2,0,0.0,Graduate,No,Urban,Married,0.462,1
+56,93846.0,168371.0,120,719.0,2.0,2,1.0,Not Graduate,Yes,Urban,Married,0.179,0
+55,41187.0,76244.0,60,547.0,6.4,0,3.0,Graduate,No,Urban,Married,0.37,0
+32,35509.0,112595.0,24,658.0,0.4,0,0.0,Graduate,No,Rural,Single,1.585,0
+27,52994.0,148790.0,360,644.0,12.3,1,4.0,Graduate,No,Urban,Single,0.094,1
+49,100008.0,82471.0,36,678.0,0.1,0,3.0,Graduate,No,Urban,Married,0.275,1
+31,71963.0,129509.0,180,596.0,16.4,1,2.0,Graduate,No,Urban,Single,0.12,1
+53,35092.0,20000.0,240,749.0,3.1,1,2.0,Graduate,No,Urban,Married,0.028,1
+26,87011.0,206921.0,24,650.0,2.7,3,1.0,Graduate,No,Rural,Married,1.189,0
+35,18589.0,248172.0,120,684.0,1.5,1,2.0,Graduate,No,Semiurban,Married,1.335,0
+52,102004.0,186349.0,240,579.0,0.1,0,1.0,Graduate,No,Rural,Married,0.091,0
+31,73842.0,331141.0,180,584.0,1.6,1,3.0,Graduate,,Urban,Married,0.299,1
+43,93798.0,204568.0,36,889.0,0.6,1,2.0,Graduate,No,Urban,Single,0.727,1
+46,18748.0,241425.0,12,812.0,5.4,0,2.0,Graduate,No,Semiurban,Single,3.0,0
+54,58728.0,249069.0,120,644.0,1.9,1,,Graduate,No,Semiurban,Married,0.424,0
+54,52054.0,20000.0,240,788.0,7.3,2,0.0,Graduate,No,Urban,Married,0.019,1
+49,32846.0,183894.0,120,759.0,1.2,2,0.0,Graduate,No,Semiurban,Married,0.56,1
+24,26487.0,39365.0,84,594.0,11.5,2,3.0,Graduate,No,Rural,Married,0.212,0
+37,66156.0,55528.0,240,585.0,3.7,0,0.0,Graduate,No,Urban,Single,0.042,0
+55,68150.0,69442.0,24,710.0,0.6,1,1.0,Graduate,No,Semiurban,Married,0.509,1
+33,83599.0,124983.0,12,673.0,2.6,1,1.0,Not Graduate,No,Urban,Married,1.495,0
+59,43925.0,202037.0,12,614.0,1.2,2,0.0,Graduate,No,Rural,Married,3.0,1
+35,51885.0,184719.0,60,715.0,1.1,1,0.0,Not Graduate,Yes,Semiurban,Married,0.712,1
+49,24586.0,148993.0,120,520.0,3.5,0,3.0,Graduate,No,Urban,Married,0.606,0
+49,88897.0,207815.0,360,660.0,5.6,0,2.0,Graduate,No,Semiurban,Single,0.078,1
+31,56530.0,212679.0,12,538.0,12.1,2,1.0,Not Graduate,No,Rural,Single,3.0,0
+52,70897.0,185410.0,12,541.0,3.5,0,4.0,Graduate,Yes,Semiurban,Married,2.615,0
+22,71674.0,20000.0,84,586.0,16.9,2,0.0,Graduate,Yes,Urban,Single,0.04,1
+34,87100.0,90853.0,84,683.0,14.2,1,0.0,Not Graduate,Yes,Semiurban,Single,0.149,1
+40,36709.0,152106.0,84,589.0,10.0,1,2.0,Graduate,Yes,Semiurban,Married,0.592,0
+42,70347.0,208676.0,120,540.0,3.5,1,2.0,Graduate,Yes,Urban,Married,0.297,0
+31,54450.0,43714.0,240,693.0,0.8,2,1.0,Graduate,No,Urban,Married,0.04,1
+47,101325.0,149092.0,36,784.0,1.2,1,4.0,Not Graduate,No,Semiurban,Married,0.49,1
+23,36644.0,24750.0,360,707.0,5.2,5,4.0,Not Graduate,,Semiurban,Single,0.023,1
+37,80771.0,232073.0,12,812.0,2.7,1,0.0,Graduate,No,Urban,Married,2.873,0
+48,62708.0,169388.0,60,777.0,0.8,2,0.0,Graduate,Yes,Rural,Married,0.54,1
+49,61553.0,42309.0,360,606.0,3.3,0,3.0,Not Graduate,No,Semiurban,Married,0.023,0
+41,56188.0,41782.0,240,707.0,0.1,1,0.0,Graduate,No,Urban,Married,0.037,1
+36,84627.0,180995.0,360,642.0,6.6,1,0.0,Graduate,No,Urban,Married,0.071,0
+57,60805.0,259984.0,12,746.0,0.4,0,2.0,Graduate,Yes,Semiurban,Single,3.0,0
+40,21463.0,62257.0,360,642.0,5.0,5,1.0,Graduate,,Semiurban,Married,0.097,0
+26,81829.0,212928.0,36,579.0,7.9,2,1.0,Graduate,No,Semiurban,Married,0.867,0
+39,77796.0,106621.0,360,774.0,0.7,2,0.0,Not Graduate,Yes,Urban,Married,0.046,1
+25,67917.0,215856.0,12,679.0,3.7,0,2.0,Not Graduate,No,Semiurban,Single,3.0,0
+23,30174.0,204655.0,12,590.0,7.5,1,1.0,Graduate,Yes,Rural,Married,3.0,0
+21,33591.0,162424.0,360,605.0,1.5,2,0.0,Graduate,No,Urban,Married,0.161,0
+58,15000.0,20000.0,120,590.0,0.9,2,0.0,Graduate,Yes,Urban,Married,0.133,0
+35,65127.0,204495.0,60,560.0,2.1,0,1.0,Graduate,No,Rural,Married,0.628,0
+54,25310.0,190162.0,180,607.0,4.0,3,3.0,Graduate,No,Urban,Married,0.501,0
+55,17187.0,182834.0,84,684.0,4.3,0,3.0,Graduate,No,Urban,Married,1.52,0
+45,83050.0,165654.0,180,656.0,0.7,0,0.0,Graduate,No,Urban,Single,0.133,1
+44,71900.0,79697.0,240,611.0,3.1,0,2.0,Graduate,No,Urban,Married,0.055,1
+32,47670.0,236637.0,240,785.0,1.6,1,2.0,Graduate,No,Semiurban,Married,0.248,1
+38,52051.0,221851.0,12,469.0,9.2,0,3.0,Graduate,No,Urban,Single,3.0,0
+35,15000.0,63966.0,240,678.0,1.9,1,1.0,Graduate,Yes,Rural,Married,0.213,0

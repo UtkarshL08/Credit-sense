@@ -1,0 +1,63 @@
+{
+  "best_model": "Logistic Regression",
+  "results": {
+    "Logistic Regression": {
+      "accuracy": 0.7766666666666666,
+      "precision": 0.7346938775510204,
+      "recall": 0.6371681415929203,
+      "f1": 0.6824644549763034,
+      "roc_auc": 0.8338460082343477
+    },
+    "Random Forest": {
+      "accuracy": 0.7366666666666667,
+      "precision": 0.6931818181818182,
+      "recall": 0.5398230088495575,
+      "f1": 0.6069651741293532,
+      "roc_auc": 0.8094742321707443
+    }
+  },
+  "feature_importance": {
+    "DebtToIncomeRatio": 1.2236,
+    "Education": 0.7987,
+    "CreditScore": 0.6201,
+    "Income": 0.451,
+    "ExistingLoans": 0.3558,
+    "SelfEmployed": 0.3383,
+    "EmploymentYears": 0.2616,
+    "PropertyArea": 0.2546,
+    "MaritalStatus": 0.1722,
+    "LoanAmount": 0.1171,
+    "Dependents": 0.0909,
+    "LoanTerm": 0.0759,
+    "Age": 0.0551
+  },
+  "n_train": 1200,
+  "n_test": 300,
+  "classification_report": {
+    "0": {
+      "precision": 0.7970297029702971,
+      "recall": 0.8609625668449198,
+      "f1-score": 0.8277634961439588,
+      "support": 187.0
+    },
+    "1": {
+      "precision": 0.7346938775510204,
+      "recall": 0.6371681415929203,
+      "f1-score": 0.6824644549763034,
+      "support": 113.0
+    },
+    "accuracy": 0.7766666666666666,
+    "macro avg": {
+      "precision": 0.7658617902606588,
+      "recall": 0.7490653542189201,
+      "f1-score": 0.755113975560131,
+      "support": 300.0
+    },
+    "weighted avg": {
+      "precision": 0.7735498753957029,
+      "recall": 0.7766666666666666,
+      "f1-score": 0.7730341906374752,
+      "support": 300.0
+    }
+  }
+}

@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>CreditSense — AI Loan Approval Predictor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+<!-- React (no build step required — runs directly in the browser) -->
+<script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js" crossorigin></script>
+
+<style>
+  :root {
+    --navy: #0b1f3a;
+    --navy-light: #142b4d;
+    --teal: #14b8a6;
+    --green: #1aa66b;
+    --red: #d64545;
+    --paper: #f4f7fb;
+    --ink: #132033;
+    --muted: #667085;
+    --border: #d9e2ee;
+    --surface: #ffffff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: linear-gradient(135deg, #f7fbff 0%, var(--paper) 100%);
+    color: var(--ink);
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+  .app { max-width: 1180px; margin: 0 auto; padding: 24px 20px 56px; }
+  .topbar {
+    display: flex; align-items: center; justify-content: space-between; gap: 16px;
+    margin-bottom: 18px; padding: 10px 0;
+  }
+  .brand { display: flex; align-items: center; gap: 12px; }
+  .brand-mark {
+    width: 44px; height: 44px; border-radius: 12px;
+    background: linear-gradient(135deg, var(--navy), var(--teal)); color: white;
+    display: flex; align-items: center; justify-content: center;
+    font-family: 'Space Grotesk', sans-serif; font-weight: 700; font-size: 18px;
+    box-shadow: 0 12px 24px rgba(20, 184, 166, 0.15);
+  }
+  h1 { font-family: 'Space Grotesk', sans-serif; font-size: 22px; margin: 0; letter-spacing: -0.01em; }
+  .tag { color: var(--muted); font-size: 13px; margin-top: 2px; }
+  .badge {
+    font-size: 12px; color: var(--navy); background: #e8f6f2;
+    border: 1px solid #cfe8de; padding: 6px 10px; border-radius: 999px;
+    font-weight: 600; white-space: nowrap;
+  }
+  .hero {
+    display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 18px;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 20px; padding: 24px; box-shadow: 0 10px 35px rgba(15, 23, 42, 0.05);
+    margin-bottom: 24px;
+  }
+  .eyebrow {
+    display: inline-block; font-size: 11px; letter-spacing: 0.15em; text-transform: uppercase;
+    font-weight: 700; color: var(--teal); margin-bottom: 8px;
+  }
+  .hero h2 {
+    font-family: 'Space Grotesk', sans-serif; font-size: 26px; line-height: 1.25;
+    margin: 0 0 10px; max-width: 620px;
+  }
+  .hero p { color: var(--muted); line-height: 1.7; margin: 0; }
+  .hero-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+  .hero-tags span {
+    background: #f2f7ff; color: var(--navy); border: 1px solid #dfe9f4;
+    border-radius: 999px; padding: 6px 10px; font-size: 12px; font-weight: 600;
+  }
+  .hero-panel {
+    background: linear-gradient(135deg, #0b1f3a 0%, #142b4d 100%); color: white;
+    border-radius: 16px; padding: 18px; display: flex; flex-direction: column; gap: 10px;
+  }
+  .panel-title { font-size: 12px; text-transform: uppercase; letter-spacing: 0.16em; opacity: 0.7; }
+  .panel-stat {
+    display: flex; justify-content: space-between; align-items: center; padding: 10px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.16);
+  }
+  .panel-stat:last-child { border-bottom: none; padding-bottom: 0; }
+  .panel-stat strong { font-size: 16px; }
+  .grid { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 24px; }
+  .card {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 18px;
+    padding: 22px; box-shadow: 0 10px 35px rgba(15, 23, 42, 0.04);
+  }
+  .card h2 {
+    font-family: 'Space Grotesk', sans-serif; font-size: 17px; margin: 0 0 16px;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .card-sub { font-size: 13px; color: var(--muted); margin-top: -8px; margin-bottom: 16px; }
+  .field-row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-bottom: 14px; }
+  .field { display: flex; flex-direction: column; gap: 6px; }
+  .field.full { grid-column: 1 / -1; }
+  label { font-size: 12.5px; color: var(--muted); font-weight: 600; }
+  input, select {
+    padding: 10px 11px; border: 1px solid var(--border); border-radius: 10px;
+    font-size: 14px; font-family: inherit; background: #fcfdff; color: var(--ink);
+  }
+  input:focus, select:focus { outline: 2px solid rgba(20, 184, 166, 0.2); outline-offset: 1px; border-color: var(--teal); }
+  .dti-note { font-size: 12px; color: var(--muted); margin-top: -4px; }
+  button.submit {
+    width: 100%; margin-top: 8px; padding: 13px; border: none; border-radius: 10px;
+    background: linear-gradient(135deg, var(--navy), var(--navy-light)); color: #fff; font-weight: 700; font-size: 14.5px;
+    cursor: pointer; font-family: 'Space Grotesk', sans-serif; letter-spacing: 0.01em;
+    transition: transform 0.15s ease, opacity 0.15s ease;
+  }
+  button.submit:hover { opacity: 0.95; transform: translateY(-1px); }
+  button.submit:disabled { opacity: 0.5; cursor: default; transform: none; }
+
+  .result-empty { color: var(--muted); font-size: 14px; line-height: 1.7; }
+  .verdict {
+    border-radius: 12px; padding: 16px; text-align: center; margin-bottom: 16px;
+  }
+  .verdict.approved { background: #eaf7f0; border: 1px solid #bfe6cf; }
+  .verdict.rejected { background: #fbecec; border: 1px solid #f1c6c6; }
+  .verdict .label {
+    font-family: 'Space Grotesk', sans-serif; font-size: 21px; font-weight: 700;
+  }
+  .verdict.approved .label { color: var(--green); }
+  .verdict.rejected .label { color: var(--red); }
+  .verdict .sub { font-size: 12.5px; color: var(--muted); margin-top: 4px; }
+
+  .prob-track { height: 10px; background: #edf2f7; border-radius: 999px; overflow: hidden; margin-top: 14px; }
+  .prob-fill { height: 100%; border-radius: 999px; transition: width 0.6s ease; }
+  .prob-caption { display: flex; justify-content: space-between; font-size: 11.5px; color: var(--muted); margin-top: 6px; }
+
+  .risk-list { margin-top: 18px; }
+  .risk-list h3 { font-size: 12.5px; color: var(--muted); margin: 0 0 8px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; }
+  .risk-item {
+    font-size: 13.5px; padding: 8px 10px; background: #f8fafc; border-radius: 8px;
+    margin-bottom: 6px; border-left: 3px solid var(--teal);
+  }
+  .footer-note { margin-top: 28px; font-size: 12px; color: var(--muted); text-align: center; }
+  .error-box { background: #fbecec; border: 1px solid #f1c6c6; color: #9b2c2c; padding: 10px 12px; border-radius: 8px; font-size: 13px; margin-top: 14px; }
+
+  @media (max-width: 900px) {
+    .hero { grid-template-columns: 1fr; }
+    .grid { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 640px) {
+    .app { padding: 16px 14px 44px; }
+    .topbar { flex-direction: column; align-items: flex-start; }
+    .field-row { grid-template-columns: 1fr; }
+    .card, .hero { padding: 18px; }
+    .hero h2 { font-size: 22px; }
+  }
+</style>
+</head>
+<body>
+<div id="root"></div>
+
+<script>
+const API_BASE = "http://localhost:5000";
+const root = document.getElementById("root");
+const initialForm = {
+  Age: 30,
+  Income: 60000,
+  LoanAmount: 150000,
+  LoanTerm: "60",
+  CreditScore: 700,
+  EmploymentYears: 4,
+  ExistingLoans: 1,
+  Dependents: "1",
+  Education: "Graduate",
+  SelfEmployed: "No",
+  PropertyArea: "Urban",
+  MaritalStatus: "Married",
+};
+
+const state = {
+  form: { ...initialForm },
+  result: null,
+  error: null,
+  loading: false,
+};
+
+function computeDti(form) {
+  const monthlyIncome = Number(form.Income) / 12;
+  const monthlyInstallment = Number(form.LoanAmount) / Number(form.LoanTerm);
+  if (!monthlyIncome) return 0;
+  return Math.min(monthlyInstallment / monthlyIncome, 3);
+}
+
+function render() {
+  const { form, result, error, loading } = state;
+  const dti = computeDti(form);
+  const approved = result && result.prediction === "Approved";
+  const probPct = result ? Math.round(result.approval_probability * 100) : 0;
+
+  root.innerHTML = `
+    <div class="app">
+      <header class="topbar">
+        <div class="brand">
+          <div class="brand-mark">C</div>
+          <div>
+            <h1>CreditSense</h1>
+            <div class="tag">AI-powered loan approval risk predictor</div>
+          </div>
+        </div>
+        <span class="badge">Logistic Regression · 77.7% accuracy</span>
+      </header>
+
+      <section class="hero">
+        <div>
+          <div class="eyebrow">Machine learning portfolio project</div>
+          <h2>End-to-end ML with a polished interface for real-world storytelling.</h2>
+          <p>
+            This project demonstrates a complete Python-to-frontend workflow: data preparation,
+            model training, API deployment, and a responsive web experience designed for interviews,
+            portfolio reviews, and technical discussions.
+          </p>
+          <div class="hero-tags">
+            <span>Python</span>
+            <span>scikit-learn</span>
+            <span>Flask API</span>
+            <span>Vanilla JS</span>
+            <span>Responsive design</span>
+          </div>
+        </div>
+        <div class="hero-panel">
+          <div class="panel-title">Project highlights</div>
+          <div class="panel-stat"><span>Model accuracy</span><strong>77.7%</strong></div>
+          <div class="panel-stat"><span>Explainable output</span><strong>Risk flags</strong></div>
+          <div class="panel-stat"><span>Deployment ready</span><strong>Render + Netlify</strong></div>
+        </div>
+      </section>
+
+      <div class="grid">
+        <form class="card" id="predict-form">
+          <h2>Applicant details</h2>
+          <div class="card-sub">Enter the applicant profile to generate a prediction and explain the outcome.</div>
+
+          <div class="field-row">
+            <div class="field">
+              <label>Age</label>
+              <input type="number" value="${form.Age}" data-field="Age" required />
+            </div>
+            <div class="field">
+              <label>Monthly dependents</label>
+              <select data-field="Dependents">
+                <option value="0" ${form.Dependents === "0" ? "selected" : ""}>0</option>
+                <option value="1" ${form.Dependents === "1" ? "selected" : ""}>1</option>
+                <option value="2" ${form.Dependents === "2" ? "selected" : ""}>2</option>
+                <option value="3" ${form.Dependents === "3" ? "selected" : ""}>3</option>
+                <option value="4" ${form.Dependents === "4" ? "selected" : ""}>4</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="field-row">
+            <div class="field">
+              <label>Annual income (₹)</label>
+              <input type="number" value="${form.Income}" data-field="Income" required />
+            </div>
+            <div class="field">
+              <label>Credit score (300–900)</label>
+              <input type="number" value="${form.CreditScore}" data-field="CreditScore" required />
+            </div>
+          </div>
+
+          <div class="field-row">
+            <div class="field">
+              <label>Loan amount (₹)</label>
+              <input type="number" value="${form.LoanAmount}" data-field="LoanAmount" required />
+            </div>
+            <div class="field">
+              <label>Loan term (months)</label>
+              <select data-field="LoanTerm">
+                ${[12, 24, 36, 60, 84, 120, 180, 240, 360].map((t) => `<option value="${t}" ${String(form.LoanTerm) === String(t) ? "selected" : ""}>${t}</option>`).join("")}
+              </select>
+            </div>
+          </div>
+
+          <div class="field full dti-note">
+            Computed debt-to-income ratio: <strong>${dti.toFixed(2)}</strong> (monthly installment ÷ monthly income)
+          </div>
+
+          <div class="field-row" style="margin-top: 6px;">
+            <div class="field">
+              <label>Employment (years)</label>
+              <input type="number" step="0.5" value="${form.EmploymentYears}" data-field="EmploymentYears" required />
+            </div>
+            <div class="field">
+              <label>Existing loans</label>
+              <input type="number" value="${form.ExistingLoans}" data-field="ExistingLoans" required />
+            </div>
+          </div>
+
+          <div class="field-row">
+            <div class="field">
+              <label>Education</label>
+              <select data-field="Education">
+                <option value="Graduate" ${form.Education === "Graduate" ? "selected" : ""}>Graduate</option>
+                <option value="Not Graduate" ${form.Education === "Not Graduate" ? "selected" : ""}>Not Graduate</option>
+              </select>
+            </div>
+            <div class="field">
+              <label>Self-employed</label>
+              <select data-field="SelfEmployed">
+                <option value="No" ${form.SelfEmployed === "No" ? "selected" : ""}>No</option>
+                <option value="Yes" ${form.SelfEmployed === "Yes" ? "selected" : ""}>Yes</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="field-row">
+            <div class="field">
+              <label>Property area</label>
+              <select data-field="PropertyArea">
+                <option value="Urban" ${form.PropertyArea === "Urban" ? "selected" : ""}>Urban</option>
+                <option value="Semiurban" ${form.PropertyArea === "Semiurban" ? "selected" : ""}>Semiurban</option>
+                <option value="Rural" ${form.PropertyArea === "Rural" ? "selected" : ""}>Rural</option>
+              </select>
+            </div>
+            <div class="field">
+              <label>Marital status</label>
+              <select data-field="MaritalStatus">
+                <option value="Married" ${form.MaritalStatus === "Married" ? "selected" : ""}>Married</option>
+                <option value="Single" ${form.MaritalStatus === "Single" ? "selected" : ""}>Single</option>
+              </select>
+            </div>
+          </div>
+
+          <button class="submit" type="submit" ${loading ? "disabled" : ""}>
+            ${loading ? "Scoring application…" : "Predict approval"}
+          </button>
+
+          ${error ? `<div class="error-box">${error}</div>` : ""}
+        </form>
+
+        <div class="card">
+          <h2>Prediction outcome</h2>
+          <div class="card-sub">The model returns a decision, confidence score, and interpretable risk factors.</div>
+          ${!result && !error ? `
+            <div class="result-empty">
+              Fill in the applicant details and click <strong>Predict approval</strong>.
+              The result is computed by a Logistic Regression model trained on historical loan applications.
+            </div>
+          ` : ""}
+          ${result ? `
+            <div>
+              <div class="verdict ${approved ? "approved" : "rejected"}">
+                <div class="label">${result.prediction}</div>
+                <div class="sub">Model confidence: ${probPct}% probability of approval</div>
+              </div>
+              <div class="prob-track">
+                <div class="prob-fill" style="width: ${probPct}%; background: ${approved ? "var(--green)" : "var(--red)"};"></div>
+              </div>
+              <div class="prob-caption"><span>0%</span><span>100%</span></div>
+
+              <div class="risk-list">
+                <h3>Risk factors flagged</h3>
+                ${result.risk_factors.map((r) => `<div class="risk-item">${r}</div>`).join("")}
+              </div>
+            </div>
+          ` : ""}
+        </div>
+      </div>
+
+      <div class="footer-note">
+        CreditSense is a portfolio/demo project using a synthetic dataset — not financial advice, not a real lending product.
+      </div>
+    </div>
+  `;
+}
+
+function updateField(field, value) {
+  state.form[field] = value;
+  render();
+}
+
+async function handleSubmit(event) {
+  event.preventDefault();
+  state.loading = true;
+  state.error = null;
+  state.result = null;
+  render();
+
+  try {
+    const payload = { ...state.form, DebtToIncomeRatio: computeDti(state.form) };
+    const res = await fetch(`${API_BASE}/api/predict`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload),
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || "Prediction failed");
+    state.result = data;
+  } catch (err) {
+    state.error = err.message + " — is the Flask API running at " + API_BASE + "?";
+  } finally {
+    state.loading = false;
+    render();
+  }
+}
+
+root.addEventListener("input", (event) => {
+  const field = event.target.dataset.field;
+  if (!field) return;
+  updateField(field, event.target.value);
+});
+
+root.addEventListener("change", (event) => {
+  const field = event.target.dataset.field;
+  if (!field) return;
+  updateField(field, event.target.value);
+});
+
+root.addEventListener("submit", (event) => {
+  if (event.target.id === "predict-form") {
+    handleSubmit(event);
+  }
+});
+
+render();
+</script>
+</body>
+</html>
